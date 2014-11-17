@@ -9,6 +9,8 @@ The product backlog itself is implemented in the [issue tracker](https://github.
 
 For details on the scrum of scrum process see [this wiki page](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
+[![Throughput Graph](https://graphs.waffle.io/modelwriter/product-backlog/throughput.svg)](https://waffle.io/modelwriter/product-backlog/metrics)  
+
 Closing issues via commit messages
 -----
 <https://help.github.com/articles/closing-issues-via-commit-messages/>  
