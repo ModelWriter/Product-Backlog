@@ -4,7 +4,7 @@ Product-Backlog
 
 Product backlog of the ModelWriter project
 
-Product Backlog: [https://waffle.io/modelwriter/wp3](https://waffle.io/modelwriter/wp3)
+Product Backlog: [https://waffle.io/modelwriter/product-backlog](https://waffle.io/modelwriter/product-backlog)
 
 The product backlog itself is implemented in the [issue tracker](https://github.com/modelwriter/product-backlog/issues) of this repository.
 
