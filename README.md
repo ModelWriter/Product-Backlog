@@ -3,3 +3,5 @@ Product-Backlog
 ===============
 
 Product backlog of the ModelWriter project
+
+Product Backlog: [https://waffle.io/modelwriter/wp3](https://waffle.io/modelwriter/wp3)
