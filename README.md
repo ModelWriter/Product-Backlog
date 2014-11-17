@@ -11,8 +11,8 @@ For details on the scrum of scrum process see [this wiki page](https://github.co
 
 Closing issues via commit messages
 -----
-https://help.github.com/articles/closing-issues-via-commit-messages/
-https://github.com/blog/1439-closing-issues-across-repositories
+<https://help.github.com/articles/closing-issues-via-commit-messages/>  
+<https://github.com/blog/1439-closing-issues-across-repositories>  
 
     fixes modelwriter/wp2#5
     This fixes #34, resolves #23, and closes example_user/example_repo#42
