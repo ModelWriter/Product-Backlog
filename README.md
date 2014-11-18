@@ -22,3 +22,7 @@ Closing issues via commit messages
 Permission Levels
 -----
 https://help.github.com/articles/permission-levels-for-an-organization-repository/
+
+Mastering Issues
+-----
+https://guides.github.com/features/issues/index.html#notifications
