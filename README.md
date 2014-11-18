@@ -26,3 +26,7 @@ https://help.github.com/articles/permission-levels-for-an-organization-repositor
 Mastering Issues
 -----
 https://guides.github.com/features/issues/index.html#notifications
+
+Mastering Markdown
+-----
+https://guides.github.com/features/mastering-markdown/
