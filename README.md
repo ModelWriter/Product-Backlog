@@ -32,8 +32,8 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
   * D1.1.1 Report: Evaluation Methods & Tools
 * T1.2 – Industrial Use Cases for Belgian Consortium (EADS)
   * D1.2.1 Report: Industrial Use Cases for Belgian Consortium
-   * D1.2.2 Data: Corpus for D1.1.1 (public part)
-   * D1.2.3 Data: Corpus for D1.1.1 (confidential part)
+    * D1.2.2 Data: Corpus for D1.1.1 (public part)
+    * D1.2.3 Data: Corpus for D1.1.1 (confidential part)
 * T1.3 – Industrial Use Cases for French Consortium (Obeo + EADS Fr IW)
   * D1.3.1 Report: Industrial Use Cases for French Consortium
   * D1.3.2 Data: Corpus for D1.2.1 (public part)
