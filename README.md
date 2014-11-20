@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/modelwriter/product-backlog.png?label=ready&title=Ready)](https://waffle.io/modelwriter/product-backlog)
-Product-Backlog
+[Product-Backlog](https://waffle.io/modelwriter/product-backlog)
 ===============
-**Product backlog of the ModelWriter project**
+**Product backlog of the ModelWriter project** 
 
 Product Backlog: [https://waffle.io/modelwriter/product-backlog](https://waffle.io/modelwriter/product-backlog)
 
