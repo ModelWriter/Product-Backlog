@@ -180,14 +180,14 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 * T7.3 – Workshops & Events (VUB + UNIT + Obeo + KS + EADS Fr IW + ALL)
   * D7.3.1 Newsletter - International Conference Announcement
 * T7.4 – ModelWriter-ITEA Consortium Website (SA)
-  * D7.4.1 ModelWriter-ITEA website including secured intranet                                                                      
+  * D7.4.1 ModelWriter-ITEA website including secured intranet
 * T7.5 - Community Forum & Open Source Campaign (VUB + Obeo)
-  * D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling                   
-  * D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling                    
+  * D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
+  * D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
 * T7.6 – Social Networks (UNIT + KS)
-  * D7.6.1 ModelWriter-ITEA's Facebook Group                                                                                        
-  * D7.6.2 ModelWriter-ITEA's LinkedIn Group                                                                                        
-  * D7.6.3 ModelWriter-ITEA's Twitter Group                                                                                         
-  * D7.6.4 ModelWriter-ITEA's Yammer Group                                                                                          
+  * D7.6.1 ModelWriter-ITEA's Facebook Group
+  * D7.6.2 ModelWriter-ITEA's LinkedIn Group
+  * D7.6.3 ModelWriter-ITEA's Twitter Group
+  * D7.6.4 ModelWriter-ITEA's Yammer Group
 * T7.7 – Standardization (LORIA + UNIT + KS)
   * D7.7.1 ModelWriter and standardization activities.
