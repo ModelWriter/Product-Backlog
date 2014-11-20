@@ -29,35 +29,37 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 
 **WP1 Industrial Use Cases and Requirements (EADS)**
 * T1.1 – Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
-  * D1.1.1 Report: Evaluation Methods & Tools
+  * [M3] D1.1.1 Report: Evaluation Methods & Tools
 * T1.2 – Industrial Use Cases for Belgian Consortium (EADS)
-  * D1.2.1 Report: Industrial Use Cases for Belgian Consortium
+  * [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium
     * D1.2.2 Data: Corpus for D1.1.1 (public part)
     * D1.2.3 Data: Corpus for D1.1.1 (confidential part)
 * T1.3 – Industrial Use Cases for French Consortium (Obeo + EADS Fr IW)
-  * D1.3.1 Report: Industrial Use Cases for French Consortium
-  * D1.3.2 Data: Corpus for D1.2.1 (public part)
-  * D1.3.3 Data: Corpus for D1.2.1 (confidential part)
+  * [M3] D1.3.1 Report: Industrial Use Cases for French Consortium
+    * D1.3.2 Data: Corpus for D1.2.1 (public part)
+    * D1.3.3 Data: Corpus for D1.2.1 (confidential part)
 * T1.4 – Industrial Use Cases for Turkish Consortium (Mantis + UNIT + KS + HISBIM)
-  * D1.4.1 Report: Industrial Use Cases for Turkish Consortium
-  * D1.4.2 Data: Corpus for D1.4.1 (public part)
-  * D1.4.3 Data: Corpus for D1.4.1 (confidential part)
+  * [M3] D1.4.1 Report: Industrial Use Cases for Turkish Consortium
+    * D1.4.2 Data: Corpus for D1.4.1 (public part)
+    * D1.4.3 Data: Corpus for D1.4.1 (confidential part)
 * T1.5 – Consolidated User Requirements (EADS + Country Coordinators)
-  * D1.5.1 Report: User Requirements Document (URD) for ModelWriter
+  * [M3] D1.5.1 Report: User Requirements Document (URD) for ModelWriter
 * T1.6 – User Requirements Review (EADS + UNIT+ KS + KUL + ALL)
-  * D1.6.1 Report: Minutes of the User Requirements Review meeting
+  * [M3] D1.6.1 Report: Minutes of the User Requirements Review meeting
 * T1.7 – Software Requirements (EADS + WP2 to WP7 leaders)
-  * D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
+  * [M5] D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
 * T1.8 – Software Requirements Review (EADS + UNIT + KS + KUL + ALL)
-  * D1.8.1 Report: Minutes of the Software Requirements Review meeting
+  * [M5] D1.8.1 Report: Minutes of the Software Requirements Review meeting
 * T1.9 – Annual Product Review (EADS + Country Coordinators)
-  * D1.9.1 Report: Annual Product Owner Review
+  * [M13] D1.9.1 Report: Annual Product Owner Review
+  * [M25] D1.9.1 Report: Annual Product Owner Review
+  * [M37] D1.9.1 Report: Annual Product Owner Review
 * T1.10 – Technical Risk Assessment and Management (Obeo + UNIT + KS+ ALL)
-  * D1.10.1 Technical Risk Assessment Document
+  * [M5] D1.10.1 Technical Risk Assessment Document
 
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 * T2.1 – Data Collection (LORIA+KUL+SA)
-  * D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases [LORIA,KUL]
+  * D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
 * T2.2 – Hybrid approaches to semantic parsing (KUL+LORIA)
   * D2.2.1 Report: Overview and comparison of existing deep semantic parsers
 * T2.3 – Hybrid approaches to Natural Language Generation (LORIA+VUB+KUL) 
