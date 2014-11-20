@@ -28,8 +28,8 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 
 
 **WP1 Industrial Use Cases and Requirements (EADS)**
-  T1.0 – Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
-    D1.0.1	Report: Evaluation Methods & Tools
+  T1.0 – Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]  
+    D1.0.1	Report: Evaluation Methods & Tools  
   T1.1 – Industrial Use Cases for Belgian Consortium (EADS)
     D1.1.1	Report: Industrial Use Cases for Belgian Consortium
     D1.1.2	Data: Corpus for D1.1.1 (public part)
