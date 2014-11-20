@@ -20,3 +20,6 @@ Conventions for WP start date and end date:
 Therefore:
 *	First day of project is M1.
 *	End of a 3-year project is expressed as M37
+
+The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Task **T\<x\>.\<y\>** of each **WP\<x\>**.
+======
