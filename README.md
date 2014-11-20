@@ -28,41 +28,41 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 
 
 **WP1 Industrial Use Cases and Requirements (EADS)**
-* T1.0 – Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
-  * D1.0.1 Report: Evaluation Methods & Tools
-* T1.1 – Industrial Use Cases for Belgian Consortium (EADS)
-  * D1.1.1 Report: Industrial Use Cases for Belgian Consortium
-  * D1.1.2 Data: Corpus for D1.1.1 (public part)
-  * D1.1.3 Data: Corpus for D1.1.1 (confidential part)
-* T1.2 – Industrial Use Cases for French Consortium (Obeo + EADS Fr IW)
-  * D1.2.1 Report: Industrial Use Cases for French Consortium
-  * D1.2.2 Data: Corpus for D1.2.1 (public part)
-  * D1.2.3 Data: Corpus for D1.2.1 (confidential part)
+* T1.1 – Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
+  * D1.1.1 Report: Evaluation Methods & Tools
+* T1.2 – Industrial Use Cases for Belgian Consortium (EADS)
+  * D1.2.1 Report: Industrial Use Cases for Belgian Consortium
+   * D1.2.2 Data: Corpus for D1.1.1 (public part)
+   * D1.2.3 Data: Corpus for D1.1.1 (confidential part)
+* T1.3 – Industrial Use Cases for French Consortium (Obeo + EADS Fr IW)
+  * D1.3.1 Report: Industrial Use Cases for French Consortium
+  * D1.3.2 Data: Corpus for D1.2.1 (public part)
+  * D1.3.3 Data: Corpus for D1.2.1 (confidential part)
 * T1.4 – Industrial Use Cases for Turkish Consortium (Mantis + UNIT + KS + HISBIM)
   * D1.4.1 Report: Industrial Use Cases for Turkish Consortium
   * D1.4.2 Data: Corpus for D1.4.1 (public part)
   * D1.4.3 Data: Corpus for D1.4.1 (confidential part)
-* T1.7 – Consolidated User Requirements (EADS + Country Coordinators)
-  * D1.7.1 Report: User Requirements Document (URD) for ModelWriter
-* T1.8 – User Requirements Review (EADS + UNIT+ KS + KUL + ALL)
-  * D1.8.1 Report: Minutes of the User Requirements Review meeting
-* T1.9 – Software Requirements (EADS + WP2 to WP7 leaders)
-  * D1.9.1 Report: Software Requirements Document (SRD) for ModelWriter
-* T1.10 – Software Requirements Review (EADS + UNIT + KS + KUL + ALL)
-  * D1.10.1 Report: Minutes of the Software Requirements Review meeting
-* T1.11 – Annual Product Review (EADS + Country Coordinators)
-  * D1.11.1 Report: Annual Product Owner Review
-* T1.12 – Technical Risk Assessment and Management (Obeo + UNIT + KS+ ALL)
-  * D1.12.1 Technical Risk Assessment Document
+* T1.5 – Consolidated User Requirements (EADS + Country Coordinators)
+  * D1.5.1 Report: User Requirements Document (URD) for ModelWriter
+* T1.6 – User Requirements Review (EADS + UNIT+ KS + KUL + ALL)
+  * D1.6.1 Report: Minutes of the User Requirements Review meeting
+* T1.7 – Software Requirements (EADS + WP2 to WP7 leaders)
+  * D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
+* T1.8 – Software Requirements Review (EADS + UNIT + KS + KUL + ALL)
+  * D1.8.1 Report: Minutes of the Software Requirements Review meeting
+* T1.9 – Annual Product Review (EADS + Country Coordinators)
+  * D1.9.1 Report: Annual Product Owner Review
+* T1.10 – Technical Risk Assessment and Management (Obeo + UNIT + KS+ ALL)
+  * D1.10.1 Technical Risk Assessment Document
 
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 * T2.1 – Data Collection (LORIA+KUL+SA)
   * D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases [LORIA,KUL]
 * T2.2 – Hybrid approaches to semantic parsing (KUL+LORIA)
-  * D2.2.1 Report: Overview and comparison of existing deep semantic parsers [KUL,LORIA]
+  * D2.2.1 Report: Overview and comparison of existing deep semantic parsers
 * T2.3 – Hybrid approaches to Natural Language Generation (LORIA+VUB+KUL) 
-  * D2.3.1 Report: Overview and comparison of existing generators [LORIA,KUL]
-* T2.4 – Definition of the target semantic representation language (FUB+LORIA+FZI+EADS Fr IW)
+  * D2.3.1 Report: Overview and comparison of existing generators
+* T2.4 – Definition of the target semantic representation language (FUB+LORIA+FZI+EADS)
   * D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) [LORIA,KUL,SA]. Report: Documentation of the corpora
 * T2.5 – Development of the semantic parser and of the generator (LORIA + KUL)
   * [M8] D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator [VUB,KUL,LORIA]
