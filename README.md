@@ -27,7 +27,7 @@ Work Packages, Tasks and Deliverables
 The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Task **T\<x\>.\<y\>** of each **WP\<x\>**.
 
 
-**WP1 Industrial Use Cases and Requirements (EADS)**
+**WP1 - Industrial Use Cases and Requirements (EADS)**
 * T1.1 - Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
   * [M3] D1.1.1 Report: Evaluation Methods & Tools
 * T1.2 - Industrial Use Cases for Belgian Consortium (EADS)
@@ -82,7 +82,7 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
   * [M22] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2)
   * [M30] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3)
 
-**WP3 Model to/from Knowledge Base (UNIT)**
+**WP3 - Model to/from Knowledge Base (UNIT)**
 * T3.1 - Review of M2M transformation approaches  (UNIT + KS)
   * [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
 * T3.2 - Specification and design of the M2M Transformation Framework (UNIT + KS)
@@ -137,24 +137,27 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 * T4.9 - Internal bi-directional synchronization mechanism (Obeo + UNIT)
 * T4.10 – External synchronization mechanism for collaborating ModelWriters (SA)
 
-**WP5 Project Management (UNIT)**
+**WP5 - Project Management (UNIT)**
 * T5.1 - Project and Stage Plans (UNIT + WP Leaders)
-  * D5.1.1-x (release x=1,2,3) Management reports and cost statements (confidential)
+  * [M13] D5.1.1-1 Management reports and cost statements (confidential) (release 1)
+  * [M25] D5.1.1-2 Management reports and cost statements (confidential) (release 2)
+  * [M37] D5.1.1-3 Management reports and cost statements (confidential) (release 3)
 * T5.2 - Project Controls (UNIT + WP Leaders)
-  * D5.2.1 Project Controls
-  * D5.2.1-x (release x=1,2,3) Project and Next Management Stage Plan
+  * [M2] D5.2.1 Project Controls
+  * [M12] D5.2.1-1 Project and Next Management Stage Plan (release 1)
+  * [M24] D5.2.1-2 Project and Next Management Stage Plan (release 2)
 * T5.3 - Project Monitoring (UNIT+ WP Leaders)
 * T5.4 - Communication Management and Infrastructure (UNIT+ WP7 leader)
-  * D5.4.1 Communication Management Strategy
+  * [M4] D5.4.1 Communication Management Strategy (A4)
 * T5.5 - Risk Management and Infrastructure (UNIT+ WP Leaders)
-  * D5.5.1 Risk Management Strategy (A24)
+  * [M4] D5.5.1 Risk Management Strategy (A24)
 * T5.6 - Configuration Management and Infrastructure (UNIT+ WP Leaders)
-  * D5.6.1 Configuration Management Strategy (A6)
+  * [M4] D5.6.1 Configuration Management Strategy (A6)
 * T5.7 - Quality Management and Infrastructure (UNIT+ WP Leaders)
-  * D5.7.1 Quality Management Strategy (A22)
+  * [M4] D5.7.1 Quality Management Strategy (A22)
 * T5.8 - Closing Project (UNIT+ WP Leaders)
-  * D5.8.1 Final project report (Public Deliverable)
-  * D5.8.2 Updated State-of-the-art (Public Deliverable)
+  * [37] D5.8.1 Final project report (Public Deliverable)
+  * [37] D5.8.2 Updated State-of-the-art (Public Deliverable)
 
 **WP6 - ModelWriter Architecture, Integration and Evaluation (Obeo)**
 * T6.1 - Experimental Prototyping (Obeo + SA +  VUB)
@@ -177,7 +180,7 @@ The exhaustive list of deliverables **D\<x\>.\<y\>.\<z\>** associated to each Ta
 * T6.8 - Cyclic Evaluation of Analysis Performance (SA + Obeo + LORIA + UNIT + KS + ALL)
   * D6.8.1-x (release x=1,2,3) Report: Evaluation report (All)
 
-**WP7 Dissemination and Exploitation**
+**WP7 - Dissemination and Exploitation**
 * T7.1 - Dissemination Plan (Obeo + UNIT + SA + LORIA + KS + ALL)
   * D7.1.1 Dissemination Plan                                                                                                
 * T7.2 - Business Model & Exploitation Plan (EADS Fr IW + SA + Obeo + all industrial partners)
