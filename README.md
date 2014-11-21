@@ -23,7 +23,7 @@ Therefore:
 Work Packages, Tasks and Deliverables
 ===========
 
-    The exhaustive list of deliverables `D\<x\>.\<y\>.\<z\>` associated to each Task `T\<x\>.\<y\>` of each `WP\<x\>`.
+The exhaustive list of deliverables `D\<x\>.\<y\>.\<z\>` associated to each Task `T\<x\>.\<y\>` of each `WP\<x\>`.
 
 
 **WP1 - Industrial Use Cases and Requirements (EADS)**
