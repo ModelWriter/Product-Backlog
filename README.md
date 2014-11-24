@@ -25,6 +25,17 @@ Work Packages, Tasks and Deliverables
 
 The exhaustive list of deliverables `D\<x\>.\<y\>.\<z\>` associated to each Task `T\<x\>.\<y\>` of each `WP\<x\>`.
 
+Work Package 1
+---
+**WP1 - Industrial Use Cases and Requirements (EADS)**
+
+| Task                                               | Deliverable                                                     |
+|----------------------------------------------------|-----------------------------------------------------------------|
+| T1.1 - Evaluation Methods & Tools                  |                                                                 |
+|                                                    | [M3] D1.1.1 Report: Evaluation Methods & Tools                  |
+| T1.2 - Industrial Use Cases for Belgian Consortium |                                                                 |
+|                                                    | [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium |
+
 
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 * T1.1 - Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
