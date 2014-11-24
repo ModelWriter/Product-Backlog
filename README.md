@@ -29,7 +29,22 @@ Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 
-
+| Task | Partner |
+|-------------------------------------------------------------------|---------|
+| **T1.1 - Evaluation Methods & Tools** |  |
+| [M3] D1.1.1 Report: Evaluation Methods & Tools |  |
+| **T1.2 - Industrial Use Cases for Belgian Consortium** |  |
+| * [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium |  |
+| * [M3] D1.2.2 Data: Corpus for D1.1.1 (public part) |  |
+| [M3] D1.2.3 Data: Corpus for D1.1.1 (confidential part) |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 **WP1 - Industrial Use Cases and Requirements (EADS)**
