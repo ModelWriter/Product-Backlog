@@ -31,10 +31,10 @@ Work Package 1
 
 | Task                                               | Deliverable                                                     |
 |----------------------------------------------------|-----------------------------------------------------------------|
-| T1.1 - Evaluation Methods & Tools                  |                                                                 |
-|                                                    | [M3] D1.1.1 Report: Evaluation Methods & Tools                  |
-| T1.2 - Industrial Use Cases for Belgian Consortium |                                                                 |
-|                                                    | [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium |
+| **T1.1 - Evaluation Methods & Tools**              |                                                                 |
+| [M3] D1.1.1 Report: Evaluation Methods & Tools     |                  |
+| **T1.2 - Industrial Use Cases for Belgian Consortium** |                                                                 |
+| [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium                                                  |  |
 
 
 **WP1 - Industrial Use Cases and Requirements (EADS)**
