@@ -28,28 +28,6 @@ The exhaustive list of deliverables `D\<x\>.\<y\>.\<z\>` associated to each Task
 Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
-
-| Task | Partner |
-|-------------------------------------------------------------------|---------|
-| **T1.1 - Evaluation Methods & Tools** |  |
-|  | UNIT |
-|  | AirBus |
-| [M3] D1.1.1 Report: Evaluation Methods & Tools |  |
-| **T1.2 - Industrial Use Cases for Belgian Consortium** |  |
-| * [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium |  |
-| * [M3] D1.2.2 Data: Corpus for D1.1.1 (public part) |  |
-| * [M3] D1.2.3 Data: Corpus for D1.1.1 (confidential part) |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-
-**WP1 - Industrial Use Cases and Requirements (EADS)**
 * T1.1 - Evaluation Methods & Tools [UNIT + KS + Industrial Use Cases partners]
   * [M3] D1.1.1 Report: Evaluation Methods & Tools
 * T1.2 - Industrial Use Cases for Belgian Consortium (EADS)
@@ -79,6 +57,8 @@ Work Package 1
 * T1.10 - Technical Risk Assessment and Management (Obeo + UNIT + KS+ ALL)
   * [M5] D1.10.1 Technical Risk Assessment Document
 
+Work Package 2
+---
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 * T2.1 - Data Collection (LORIA+KUL)
   * [M3] D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
@@ -104,6 +84,8 @@ Work Package 1
   * [M22] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2)
   * [M30] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3)
 
+Work Package 3
+---
 **WP3 - Model to/from Knowledge Base (UNIT)**
 * T3.1 - Review of M2M transformation approaches  (UNIT + KS)
   * [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
@@ -139,6 +121,8 @@ Work Package 1
   * [M32] D3.9.1 Test-plan for the M2M Transformation Framework.
   * [M33] D3.9.2 Field experiment concerning ModelWriter model transformations
 
+Work Package 4
+---
 **WP4 - Knowledge Base Design and Implementation (Mantis)**
 * T4.1 - Design of the Knowledge Base (VUB + SA + Obeo + Mantis + UNIT + KS)
   * D4.1.1 Report: Knowledge Base Design document
@@ -159,6 +143,8 @@ Work Package 1
 * T4.9 - Internal bi-directional synchronization mechanism (Obeo + UNIT)
 * T4.10 – External synchronization mechanism for collaborating ModelWriters (SA)
 
+Work Package 5
+---
 **WP5 - Project Management (UNIT)**
 * T5.1 - Project and Stage Plans (UNIT + WP Leaders)
   * [M13] D5.1.1-1 Management reports and cost statements (confidential) (release 1)
@@ -181,6 +167,8 @@ Work Package 1
   * [37] D5.8.1 Final project report (Public Deliverable)
   * [37] D5.8.2 Updated State-of-the-art (Public Deliverable)
 
+Work Package 6
+---
 **WP6 - ModelWriter Architecture, Integration and Evaluation (Obeo)**
 * T6.1 - Experimental Prototyping (Obeo + SA +  VUB)
   * D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
@@ -202,6 +190,8 @@ Work Package 1
 * T6.8 - Cyclic Evaluation of Analysis Performance (SA + Obeo + LORIA + UNIT + KS + ALL)
   * D6.8.1-x (release x=1,2,3) Report: Evaluation report (All)
 
+Work Package 7
+---
 **WP7 - Dissemination and Exploitation**
 * T7.1 - Dissemination Plan (Obeo + UNIT + SA + LORIA + KS + ALL)
   * D7.1.1 Dissemination Plan                                                                                                
