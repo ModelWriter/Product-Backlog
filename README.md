@@ -12,13 +12,13 @@ Technical Coordination Committee (TCC)
 ----
 | Work Package | Primary Contact        | Secondary Contact      | 
 |:------------	|:---------------------- |:---------------------- |
-| [WP1]() (EADS) | Anne Monceaux | ? | 
-| [WP2]() (LORIA)| Claire Gardent | Samuel Cruz-Lara |                               	
-| [WP3]() (UNIT) | Ferhat Erata | Moharram Challenger |                	
-| [WP4]() (MANTIS) | Erhan Mengüsoğlu | Güven Köse |
-| [WP5]() (UNIT) | Ferhat Erata | Moharram Challenger |
-| [WP6]() (OBEO)	| Etienne Juliot | Marwa Rostren |
-| [WP7]() (OBEO)	| Etienne Juliot | Marwa Rostren |
+| [WP1](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-1) (EADS) | Anne Monceaux | ? | 
+| [WP2](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-2) (LORIA)| Claire Gardent | Samuel Cruz-Lara |                               	
+| [WP3](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-3) (UNIT) | Ferhat Erata | Moharram Challenger |                	
+| [WP4](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-4) (MANTIS) | Erhan Mengüsoğlu | Güven Köse |
+| [WP5](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-5) (UNIT) | Ferhat Erata | Moharram Challenger |
+| [WP6](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
+| [WP7](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
 
 Conventions for WP start date and end date:
 * M\<i\> always means start of the month \<i\>.
