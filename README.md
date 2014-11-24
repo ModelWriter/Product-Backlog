@@ -8,7 +8,17 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
-[![Throughput Graph](https://graphs.waffle.io/modelwriter/product-backlog/throughput.svg)](https://waffle.io/modelwriter/product-backlog/metrics)  
+Technical Coordination Committee (TCC)
+----
+| Work Package | Primary Contact        | Secondary Contact      | 
+|:------------	|:---------------------- |:---------------------- |
+| [WP1]() (EADS) | Anne Monceaux | ? | 
+| [WP2]() (LORIA)| Claire Gardent | Samuel Cruz-Lara |                               	
+| [WP3]() (UNIT) | Ferhat Erata | Moharram Challenger |                	
+| [WP4]() (MANTIS) | Erhan Mengüsoğlu | Güven Köse |
+| [WP5]() (UNIT) | Ferhat Erata | Moharram Challenger |
+| [WP6]() (OBEO)	| Etienne Juliot | Marwa Rostren |
+| [WP7]() (OBEO)	| Etienne Juliot | Marwa Rostren |
 
 Conventions for WP start date and end date:
 * M\<i\> always means start of the month \<i\>.
