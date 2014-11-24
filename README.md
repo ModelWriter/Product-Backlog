@@ -32,11 +32,13 @@ Work Package 1
 | Task | Partner |
 |-------------------------------------------------------------------|---------|
 | **T1.1 - Evaluation Methods & Tools** |  |
+|  | UNIT |
+|  | AirBus |
 | [M3] D1.1.1 Report: Evaluation Methods & Tools |  |
 | **T1.2 - Industrial Use Cases for Belgian Consortium** |  |
 | * [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium |  |
 | * [M3] D1.2.2 Data: Corpus for D1.1.1 (public part) |  |
-| [M3] D1.2.3 Data: Corpus for D1.1.1 (confidential part) |  |
+| * [M3] D1.2.3 Data: Corpus for D1.1.1 (confidential part) |  |
 |  |  |
 |  |  |
 |  |  |
