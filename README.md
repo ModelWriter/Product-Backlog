@@ -78,9 +78,9 @@ Work Package 2
   * [M5] D2.3.1 Report: Overview and comparison of existing generators
 * **T2.4 - Definition of the target semantic representation language** (LORIA+KUL+EADS)
   * [M6] D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
-* **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
   * - [VUB,KUL,LORIA]
   * [M8] D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator [VUB,KUL,LORIA]
+* **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
   * - [KUL,LORIA] 
   * [M8] D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1)
   * [M20] D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
