@@ -8,6 +8,21 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
+Welcome to the WP5 wiki!
+
+Project Coordination Committee (PCC)
+----
+| Partner    	                       | Primary Contact        | Secondary Contact      | 
+|:-------------------------------------|:---------------------- |:---------------------- |
+| [UNIT](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#unit) |Ferhat Erata |Moharram Challenger | 
+| [OBEO](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#obeo) |Etienne Juliot |Marwa Rostren |
+| [MANTIS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |                	
+| [EADS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#eads) |Anne Monceaux |? |
+| [LORIA](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#loria) |Claire Gardent |Samuel Cruz-Lara |
+| [KOCSISTEM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kocsistem) |Mehmet Önat |Hale Gezgen |
+| [HISBIM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#hisbim) |Ersan Gürdoğan |Taskin Kızıl |
+| [KUL](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kul) |Monique Snoeck |Marie-Francine Moens |
+
 Technical Coordination Committee (TCC)
 ----
 | Work Package | Primary Contact        | Secondary Contact      | 
@@ -19,6 +34,84 @@ Technical Coordination Committee (TCC)
 | [WP5](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-5) (UNIT) | Ferhat Erata | Moharram Challenger |
 | [WP6](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
 | [WP7](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
+
+UNIT
+----
+**UNIT Information Technologies R&D Ltd.**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Ferhat Erata |ferhat@computer.org |@ferhaterata |
+|Moharram Challenger |moharram.challenger@unitbilisim.com |@m-challenger|
+|Emil Khamitov |emil.khamitov@unitbilisim.com |@emilkhamitov |
+|Yiğitcan Şener |yigitcan.sener@unitbilisim.com |@ycansener
+|Furkan Tanrıverdi |furkan.tanriverdi@unitbilisim.com |@furkAn
+|Prof. Hans Vangheluwe |hans.vangheluwe@uantwerpen.be |@
+
+OBEO
+----
+**OBEO**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Etienne Juliot |etienne.juliot@obeo.fr |@ejuliot |
+|Marwa Rostren |marwa.rostren@obeo.fr |@ |
+
+LORIA
+----
+**LORIA (UMR 7503)**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Claire Gardent |claire.gardent@loria.fr |@ |
+|Samuel Cruz-Lara |Samuel.Cruz-Lara@loria.fr |@scruzlara |
+
+EADS
+----
+**EADS France Départment Innovation Works**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Anne Monceaux |anne.monceaux@airbus.com |@ |
+
+Mantis
+----
+**Mantis Software Company**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Prof.Erhan Mengüsoğlu |erhanmengusoglu@mantis.com.tr |@ |
+|Dr. Güven Köse |guvenkose@mantis.com.tr |@ |
+
+KocSistem
+----
+**KoçSistem Bilgi ve İletişim Teknolojileri A.Ş.**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Mehmet Önat |mehmet.onat@kocsistem.com.tr |@ |
+|Hale Gezgen |hale.gezgen@kocsistem.com.tr |@ |
+|Prof. Geylani Kardaş |geylani.kardas@ege.edu.tr |@ |
+
+Hisbim
+----
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Taskin Kızıl |taskin@hisbim.com |@ |
+|Ersan Gürdoğan |ersan@hisbim.com |@ |
+
+KUL
+----
+**Katholieke Universiteit Leuven**
+
+|Contact |Corporate Email |GitHub |
+|:--- |:--- |:---|
+|Prof. Monique Snoeck |monique.snoeck@kuleuven.be|@ |
+|Prof. Marie-Francine Moens |sien.moens@cs.kuleuven.be|@ |
+
+
+
+
 
 Conventions for WP start date and end date:
 * M\<i\> always means start of the month \<i\>.
