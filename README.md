@@ -8,8 +8,6 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
-Welcome to the WP5 wiki!
-
 Project Coordination Committee (PCC)
 ----
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
