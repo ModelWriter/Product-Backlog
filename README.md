@@ -8,7 +8,7 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
-Project Coordination Committee (PCC)
+[Project Coordination Committee (PCC)](https://github.com/orgs/ModelWriter/teams/pcc)
 ----
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
 |:-------------------------------------|:---------------------- |:---------------------- |
@@ -21,7 +21,7 @@ Project Coordination Committee (PCC)
 | [HISBIM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#hisbim) |Ersan Gürdoğan |Taskin Kızıl |
 | [KUL](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kul) |Monique Snoeck |Marie-Francine Moens |
 
-Technical Coordination Committee (TCC)
+[Technical Coordination Committee (TCC)](https://github.com/orgs/ModelWriter/teams/tcc)
 ----
 | Work Package | Primary Contact        | Secondary Contact      | 
 |:------------	|:---------------------- |:---------------------- |
@@ -53,7 +53,7 @@ Technical Coordination Committee (TCC)
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
 |Etienne Juliot |etienne.juliot@obeo.fr |@ejuliot |
-|Marwa Rostren |marwa.rostren@obeo.fr |@ |
+|Marwa Rostren |marwa.rostren@obeo.fr |@mrostren |
 
 [LORIA](https://github.com/orgs/ModelWriter/teams/loria)
 ----
