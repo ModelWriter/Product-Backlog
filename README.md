@@ -135,7 +135,7 @@ Work Package 1
 |:----- |:----------- |:-------
 | [M3]  | D1.1.1 Report: Evaluation Methods & Tools | UNIT
 
-**T1.2 - Industrial Use Cases for Belgian Consortium** `[EADS]`
+**T1.2 - Industrial Use Cases for Belgian Consortium** `[SA]`
 
 | Month | Deliverable | Leader
 |:----- |:----------- | :-------
@@ -145,11 +145,11 @@ Work Package 1
 
 **T1.3 - Industrial Use Cases for French Consortium** `[OBEO + EADS]`
 
-| Month | Deliverable |
-|:----- |:----------- |
-| [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium
-| [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part)
-| [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part)
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
+| [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium | OBEO
+| [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part) | OBEO
+| [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part) | OBEO
 
 **T1.4 - Industrial Use Cases for Turkish Consortium** `[MANTIS + UNIT + KOCSISTEM + HISBIM]`
 
