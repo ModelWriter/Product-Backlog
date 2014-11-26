@@ -200,17 +200,35 @@ Work Package 1
 Work Package 2
 ---
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
-* **T2.1 - Data Collection** (LORIA+KUL)
-  * [M3] D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
-* **T2.2 - Hybrid approaches to semantic parsing** (KUL+LORIA)
-  * [M4] D2.2.1 Report: Overview and comparison of existing deep semantic parsers
-* **T2.3 - Hybrid approaches to Natural Language Generation** (LORIA+KUL) 
-  * [M5] D2.3.1 Report: Overview and comparison of existing generators
-* **T2.4 - Definition of the target semantic representation language** (LORIA+KUL+EADS)
-  * [M6] D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
+___
+
+**T2.1 - Data Collection** (LORIA+KUL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
+
+**T2.2 - Hybrid approaches to semantic parsing** (KUL+LORIA)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D2.2.1 Report: Overview and comparison of existing deep semantic parsers
+
+**T2.3 - Hybrid approaches to Natural Language Generation** (LORIA+KUL) 
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M5]  | D2.3.1 Report: Overview and comparison of existing generators
+
+**T2.4 - Definition of the target semantic representation language** (LORIA+KUL+EADS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
+
+* **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
   * - [VUB,KUL,LORIA]
   * [M8] D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator [VUB,KUL,LORIA]
-* **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
   * - [KUL,LORIA] 
   * [M8] D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1)
   * [M20] D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
