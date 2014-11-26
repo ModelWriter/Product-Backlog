@@ -33,7 +33,7 @@ Technical Coordination Committee (TCC)
 | [WP6](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
 | [WP7](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
 
-UNIT
+[UNIT](https://github.com/orgs/ModelWriter/teams/unit)
 ----
 **UNIT Information Technologies R&D Ltd.**
 
@@ -46,7 +46,7 @@ UNIT
 |Furkan Tanrıverdi |furkan.tanriverdi@unitbilisim.com |@furkAn
 |Prof. Hans Vangheluwe |hans.vangheluwe@uantwerpen.be |@
 
-OBEO
+[OBEO](https://github.com/orgs/ModelWriter/teams/obeo)
 ----
 **OBEO Software Company**
 
@@ -55,7 +55,7 @@ OBEO
 |Etienne Juliot |etienne.juliot@obeo.fr |@ejuliot |
 |Marwa Rostren |marwa.rostren@obeo.fr |@ |
 
-LORIA
+[LORIA](https://github.com/orgs/ModelWriter/teams/loria)
 ----
 **LORIA (UMR 7503)**
 
@@ -64,7 +64,7 @@ LORIA
 |Claire Gardent |claire.gardent@loria.fr |@ |
 |Samuel Cruz-Lara |Samuel.Cruz-Lara@loria.fr |@scruzlara |
 
-EADS
+[EADS](https://github.com/orgs/ModelWriter/teams/eads)
 ----
 **EADS France Départment Innovation Works**
 
@@ -72,7 +72,7 @@ EADS
 |:--- |:--- |:---|
 |Anne Monceaux |anne.monceaux@airbus.com |@ |
 
-Mantis
+[MANTIS](https://github.com/orgs/ModelWriter/teams/mantis)
 ----
 **Mantis Software Company**
 
@@ -81,7 +81,7 @@ Mantis
 |Prof.Erhan Mengüsoğlu |erhanmengusoglu@mantis.com.tr |@ |
 |Dr. Güven Köse |guvenkose@mantis.com.tr |@ |
 
-KocSistem
+[KOCSISTEM](https://github.com/orgs/ModelWriter/teams/kocsistem)
 ----
 **KoçSistem Bilgi ve İletişim Teknolojileri A.Ş.**
 
@@ -91,7 +91,7 @@ KocSistem
 |Hale Gezgen |hale.gezgen@kocsistem.com.tr |@ |
 |Prof. Geylani Kardaş |geylani.kardas@ege.edu.tr |@ |
 
-Hisbim
+[HISBIM](https://github.com/orgs/ModelWriter/teams/hisbim)
 ----
 **Hisbim Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.**
 
@@ -100,7 +100,7 @@ Hisbim
 |Taskin Kızıl |taskin@hisbim.com |@ |
 |Ersan Gürdoğan |ersan@hisbim.com |@ |
 
-KUL
+[KUL](https://github.com/orgs/ModelWriter/teams/kul)
 ----
 **Katholieke Universiteit Leuven**
 
