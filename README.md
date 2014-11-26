@@ -442,64 +442,123 @@ Work Package 5
 Work Package 6
 ---
 **WP6 - ModelWriter Architecture, Integration and Evaluation (Obeo)**
-* **T6.1 - Experimental Prototyping** (Obeo + SA +  VUB)
-  * [M5] D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
-* **T6.2 - Architectural Design** (Obeo + SA + VUB + Mantis + UNIT + technological WP Leaders)
-  * [M5] D6.2.1 Report: Architectural Design Document (ADD) (Obeo, SA, VUB, Mantis)
-* **T6.3 - Writer Part enhancements** (SA)
-  * [M10] D6.3.1-1 Software: Writer enhancements (release 1) (SA)
-  * [M20] D6.3.1-2 Software: Writer enhancements (release 2) (SA)
-  * [M34] D6.3.1-3 Software: Writer enhancements (release 3) (SA)
-* **T6.4 User Interfaces Implementation** (SA + Obeo)
-  * [M7] D6.4.1 Report: Ergonomics Guidelines document for the Writer Part (SA)
-  * [M10] D6.4.2-1 Software: User Interface for the Writer part (release 1) (SA)
-  * [M20] D6.4.2-2 Software: User Interface for the Writer part (release 2) (SA)
-  * [M34] D6.4.2-3 Software: User Interface for the Writer part (release 3) (SA)
-  * [M10] D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) (Obeo)
-  * [M20] D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) (Obeo)
-  * [M34] D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) (Obeo)
-* **T6.5 - Acceptance Test Plan** (SA + UNIT + KS + ALL)
-  * [M10] D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all)
-  * [M20] D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all)
-  * [M34] D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all)
-  * [M10] D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all)
-  * [M20] D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all)
-  * [M34] D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all)
-* **T6.6 - Acceptance Test Procedures** (SA + UNIT + KS + ALL)
-  * [M10] D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all)
-  * [M20] D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all)
-  * [M34] D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all)
-* **T6.7 - ModelWriter Integration** (Obeo + UNIT + ALL)
-  * [M11] D6.7.1-1 Software: ModelWriter major release (release 1) (Obeo)
-  * [M23] D6.7.1-2 Software: ModelWriter major release (release 2) (Obeo)
-  * [M35] D6.7.1-3 Software: ModelWriter major release (release 3) (Obeo)
-* **T6.8 - Cyclic Evaluation of Analysis Performance** (SA + Obeo + LORIA + UNIT + KS + ALL)
-  * [M12] D6.8.1-1 Report: Evaluation report (release 1) (All)
-  * [M24] D6.8.1-2 Report: Evaluation report (release 2) (All)
-  * [M36] D6.8.1-3 Report: Evaluation report (release 3) (All)
+***
+**T6.1 - Experimental Prototyping** (Obeo + SA +  VUB)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
+**T6.2 - Architectural Design** (Obeo + SA + VUB + Mantis + UNIT + technological WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (Obeo, SA, VUB, Mantis)
+
+**T6.3 - Writer Part enhancements** (SA)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D6.3.1-1 Software: Writer enhancements (release 1) (SA)
+| [M20] | D6.3.1-2 Software: Writer enhancements (release 2) (SA)
+| [M34] | D6.3.1-3 Software: Writer enhancements (release 3) (SA)
+
+**T6.4 User Interfaces Implementation** (SA + Obeo)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part (SA)
+| [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1) (SA)
+| [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2) (SA)
+| [M34] | D6.4.2-3 Software: User Interface for the Writer part (release 3) (SA)
+| [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) (Obeo)
+| [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) (Obeo)
+| [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) (Obeo)
+
+**T6.5 - Acceptance Test Plan** (SA + UNIT + KS + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all)
+| [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all)
+| [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all)
+| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all)
+| [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all)
+| [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all)
+
+**T6.6 - Acceptance Test Procedures** (SA + UNIT + KS + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all)
+| [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all)
+| [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all)
+
+**T6.7 - ModelWriter Integration** (Obeo + UNIT + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) (Obeo)
+| [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) (Obeo)
+| [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) (Obeo)
+
+**T6.8 - Cyclic Evaluation of Analysis Performance** (SA + Obeo + LORIA + UNIT + KS + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M12] | D6.8.1-1 Report: Evaluation report (release 1) (All)
+| [M24] | D6.8.1-2 Report: Evaluation report (release 2) (All)
+| [M36] | D6.8.1-3 Report: Evaluation report (release 3) (All)
 
 Work Package 7
 ---
 **WP7 - Dissemination and Exploitation**
-* **T7.1 - Dissemination Plan** (Obeo + UNIT + SA + LORIA + KS + ALL)
-  * [M4] D7.1.1 Dissemination Plan
-* **T7.2 - Business Model & Exploitation Plan** (EADS Fr IW + SA + Obeo + all industrial partners)
-  * [M7] D7.2.1-1 Exploitation Plan (release 1)
-  * [M22] D7.2.1-2 Exploitation Plan (release 2)
-  * [M34] D7.2.1-3 Exploitation Plan (release 3)
-  * [M7] D7.2.2 Marketing Plan
-  * [M34] D7.2.3 Roadmap for future exploitation and pre-competition survey
-* **T7.3 - Workshops & Events** (VUB + UNIT + Obeo + KS + EADS Fr IW + ALL)
-  * [31] D7.3.1 Newsletter - International Conference Announcement
-* **T7.4 - ModelWriter-ITEA Consortium Website** (SA)
-  * [M1] D7.4.1 ModelWriter-ITEA website including secured intranet
-* **T7.5 - Community Forum & Open Source Campaign** (VUB + Obeo)
-  * [M10] D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
-  * [M10] D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
-* **T7.6 - Social Networks** (UNIT + KS)
-  * [M10] D7.6.1 ModelWriter-ITEA's Facebook Group
-  * [M10] D7.6.2 ModelWriter-ITEA's LinkedIn Group
-  * [M10] D7.6.3 ModelWriter-ITEA's Twitter Group
-  * [M10] D7.6.4 ModelWriter-ITEA's Yammer Group
-* **T7.7 - Standardization** (LORIA + UNIT + KS)
-  * [M34] D7.7.1 ModelWriter and standardization activities.
+***
+**T7.1 - Dissemination Plan** (Obeo + UNIT + SA + LORIA + KS + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D7.1.1 Dissemination Plan
+
+**T7.2 - Business Model & Exploitation Plan** (EADS Fr IW + SA + Obeo + all industrial partners)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M7]  | D7.2.1-1 Exploitation Plan (release 1)
+| [M22] | D7.2.1-2 Exploitation Plan (release 2)
+| [M34] | D7.2.1-3 Exploitation Plan (release 3)
+| [M7]  | D7.2.2 Marketing Plan
+| [M34] | D7.2.3 Roadmap for future exploitation and pre-competition survey
+
+**T7.3 - Workshops & Events** (VUB + UNIT + Obeo + KS + EADS Fr IW + ALL)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [31]  | D7.3.1 Newsletter - International Conference Announcement
+
+**T7.4 - ModelWriter-ITEA Consortium Website** (SA)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet
+
+**T7.5 - Community Forum & Open Source Campaign** (VUB + Obeo)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
+| [M10] | D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
+ 
+**T7.6 - Social Networks** (UNIT + KS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D7.6.1 ModelWriter-ITEA's Facebook Group
+| [M10] | D7.6.2 ModelWriter-ITEA's LinkedIn Group
+| [M10] | D7.6.3 ModelWriter-ITEA's Twitter Group
+| [M10] | D7.6.4 ModelWriter-ITEA's Yammer Group
+
+**T7.7 - Standardization** (LORIA + UNIT + KS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M34] | D7.7.1 ModelWriter and standardization activities.
