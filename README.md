@@ -163,39 +163,39 @@ Work Package 1
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter
+| [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter | EADS
 
 **T1.6 - User Requirements Review** `(EADS + UNIT+ KOCSISTEM + KUL + ALL)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting
+| [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting | EADS
 
 **T1.7 - Software Requirements** `(EADS + WP2 to WP7 leaders)`
 
-| Month | Deliverable  Leader
+| Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
+| [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter | EADS
 
 **T1.8 - Software Requirements Review** `(EADS + UNIT + KOCSISTEM + KUL + ALL)`
 
-| Month | Deliverable  Leader
+| Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting
+| [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting | EADS
 
 **T1.9 - Annual Product Review** `(EADS + Country Coordinators)`
 
-| Month | Deliverable  Leader
+| Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M13] | D1.9.1-1 Report: Annual Product Owner Review
-| [M25] | D1.9.1-2 Report: Annual Product Owner Review
-| [M37] | D1.9.1-3 Report: Annual Product Owner Review
+| [M13] | D1.9.1-1 Report: Annual Product Owner Review | EADS
+| [M25] | D1.9.1-2 Report: Annual Product Owner Review | EADS
+| [M37] | D1.9.1-3 Report: Annual Product Owner Review | EADS
 
 **T1.10 - Technical Risk Assessment and Management** `(OBEO + UNIT + KOCSISTEM + ALL)`
 
-| Month | Deliverable  Leader
+| Month | Deliverable | Leader
 |:----- |:----------- |:-------
-| [M5]  | D1.10.1 Technical Risk Assessment Document
+| [M5]  | D1.10.1 Technical Risk Assessment Document | OBEO
 
 Work Package 2
 ---
