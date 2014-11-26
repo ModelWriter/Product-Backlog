@@ -32,7 +32,6 @@ For details on the scrum of scrum process see [`wiki page`](https://github.com/m
 | [WP5](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-5) (UNIT) | Ferhat Erata | Moharram Challenger |
 | [WP6](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
 | [WP7](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
-[UNIT](https://github.com/orgs/ModelWriter/teams/unit)
 
 Country Coordinators
 ----
@@ -42,7 +41,7 @@ France | OBEO | Etienne Juliot | Marwa Rostren
 Turkey | MANTIS | Güven Köse | Erhan Mengüsoğlu
 Belgium | KUL | Monique Snoeck | Marie-Francine Moens
 
-Partners
+[UNIT](https://github.com/orgs/ModelWriter/teams/unit)
 ----
 **UNIT Information Technologies R&D Ltd.**
 
