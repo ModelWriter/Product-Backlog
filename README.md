@@ -200,8 +200,7 @@ Work Package 1
 Work Package 2
 ---
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
-___
-
+***
 **T2.1 - Data Collection** (LORIA+KUL)
 
 | Month | Deliverable 
@@ -226,25 +225,41 @@ ___
 |:----- |:----------- 
 | [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
 
-* **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
-  * - [VUB,KUL,LORIA]
-  * [M8] D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator [VUB,KUL,LORIA]
+**T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
+  * [VUB,KUL,LORIA]
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator 
+
   * - [KUL,LORIA] 
-  * [M8] D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1)
-  * [M20] D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
-  * [M28] D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M8]  | D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1)
+| [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
+| [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3)
+
   * - [LORIA,KUL]
-  * [M8] D2.5.3-1 Software: Natural Language Generator and Report: Software Documentation (release 1)
-  * [M20] D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2)
-  * [M28] D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M8]  | D2.5.3-1 Software: Natural Language Generator and Report: Software Documentation (release 1)
+| [M20] | D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2)
+| [M28] | D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3)
+
   * - [SA]
-  * [M10] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 1)
-  * [M22] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2)
-  * [M30] D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 1)
+| [M22] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2)
+| [M30] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3)
 
 Work Package 3
 ---
 **WP3 - Model to/from Knowledge Base (UNIT)**
+***
 * **T3.1 - Review of M2M transformation approaches**  (UNIT + KS)
   * [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
 * **T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KS)
