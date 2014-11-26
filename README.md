@@ -93,6 +93,8 @@ KocSistem
 
 Hisbim
 ----
+**Hisbim Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.**
+
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
 |Taskin Kızıl |taskin@hisbim.com |@ |
@@ -223,21 +225,25 @@ Work Package 4
 ---
 **WP4 - Knowledge Base Design and Implementation (Mantis)**
 * **T4.1 - Design of the Knowledge Base** (VUB + SA + Obeo + Mantis + UNIT + KS)
-  * D4.1.1 Report: Knowledge Base Design document
+  * [M6] D4.1.1 Report: Knowledge Base Design document
 * **T4.2 - API of the Knowledge Base** (VUB + KS + Obeo + UNIT)
-  * D4.2.1 Report: Interface Control Document (ICD)
+  * [M6] D4.2.1 Report: Interface Control Document (ICD)
 * **T4.3 - Implementation of the Knowledge Base** (VUB)
-  * D4.3.1-x (release x=1,2,3) Software: Knowledge Base
+  * [11] D4.3.1-1 Software: Knowledge Base (release 1)
+  * [19] D4.3.1-2 Software: Knowledge Base (release 2)
+  * [31] D4.3.1-3 Software: Knowledge Base (release 3)
 * **T4.4 - Plug-in #1: ModelWriter-assisted requirements review** (VUB + SA)
-  * D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
-  * D4.4.2 Software: Proof-of-concept model checker
+  * [M35] D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
+  * [M35] D4.4.2 Software: Proof-of-concept model checker
 * **T4.5 - Knowledge Base serialization and reuse plug-in** (Mantis)
-  * D4.5.1 Report: Technical Note for KB serialization and reuse
+  * [M11] D4.5.1 Report: Technical Note for KB serialization and reuse
 * **T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** (Obeo + Mantis)
-  * D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents
-  * D4.6.2-x (release x=1,2,3) Software: Proof-of-concept semantic comparison engine
+  * [M20] D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents
+  * [M11] D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1)
+  * [M19] D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2)
+  * [M31] D4.6.2-3 Software: Proof-of-concept semantic comparison engine (release 3)
 * **T4.7 - Plug-in #2: ModelWriter-assisted compliance review** (SA)
-  * D4.7.1 Report: Future ModelWriter-Enabled Use Cases
+  * [M10] D4.7.1 Report: Future ModelWriter-Enabled Use Cases
 * **T4.9 - Internal bi-directional synchronization mechanism** (Obeo + UNIT)
 * **T4.10 – External synchronization mechanism for collaborating ModelWriters** (SA)
 
@@ -269,24 +275,40 @@ Work Package 6
 ---
 **WP6 - ModelWriter Architecture, Integration and Evaluation (Obeo)**
 * **T6.1 - Experimental Prototyping** (Obeo + SA +  VUB)
-  * D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
+  * [M5] D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
 * **T6.2 - Architectural Design** (Obeo + SA + VUB + Mantis + UNIT + technological WP Leaders)
-  * D6.2.1 Report: Architectural Design Document (ADD) (Obeo, SA, VUB, Mantis)
+  * [M5] D6.2.1 Report: Architectural Design Document (ADD) (Obeo, SA, VUB, Mantis)
 * **T6.3 - Writer Part enhancements** (SA)
-  * D6.3.1-x (release x=1,2,3) Software: Writer enhancements (SA)
+  * [M10] D6.3.1-1 Software: Writer enhancements (release 1) (SA)
+  * [M20] D6.3.1-2 Software: Writer enhancements (release 2) (SA)
+  * [M34] D6.3.1-3 Software: Writer enhancements (release 3) (SA)
 * **T6.4 User Interfaces Implementation** (SA + Obeo)
-  * D6.4.1 Report: Ergonomics Guidelines document for the Writer Part (SA)
-  * D6.4.2-x (release x=1,2,3) Software: User Interface for the Writer part (SA)
-  * D6.4.3-x (release x=1,2,3) Software: IDE-integrated User Interface to handle Synchronization issues major release (Obeo)
+  * [M7] D6.4.1 Report: Ergonomics Guidelines document for the Writer Part (SA)
+  * [M10] D6.4.2-1 Software: User Interface for the Writer part (release 1) (SA)
+  * [M20] D6.4.2-2 Software: User Interface for the Writer part (release 2) (SA)
+  * [M34] D6.4.2-3 Software: User Interface for the Writer part (release 3) (SA)
+  * [M10] D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) (Obeo)
+  * [M20] D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) (Obeo)
+  * [M34] D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) (Obeo)
 * **T6.5 - Acceptance Test Plan** (SA + UNIT + KS + ALL)
-  * D6.5.1-x (release x=1,2,3) Report: Acceptance Test Plan (SA + all)
-  * D6.5.2-x (release x=1,2,3) Software: Automated Acceptance Tests (SA + all)
+  * [M10] D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all)
+  * [M20] D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all)
+  * [M34] D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all)
+  * [M10] D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all)
+  * [M20] D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all)
+  * [M34] D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all)
 * **T6.6 - Acceptance Test Procedures** (SA + UNIT + KS + ALL)
-  * D6.6.1-x (release x=1,2,3) Report: Acceptance Test Procedures (SA + all)
+  * [M10] D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all)
+  * [M20] D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all)
+  * [M34] D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all)
 * **T6.7 - ModelWriter Integration** (Obeo + UNIT + ALL)
-  * D6.7.1-x (release x=1,2,3) Software: ModelWriter major release (Obeo)
+  * [M11] D6.7.1-1 Software: ModelWriter major release (release 1) (Obeo)
+  * [M23] D6.7.1-2 Software: ModelWriter major release (release 2) (Obeo)
+  * [M35] D6.7.1-3 Software: ModelWriter major release (release 3) (Obeo)
 * **T6.8 - Cyclic Evaluation of Analysis Performance** (SA + Obeo + LORIA + UNIT + KS + ALL)
-  * D6.8.1-x (release x=1,2,3) Report: Evaluation report (All)
+  * [M12] D6.8.1-1 Report: Evaluation report (release 1) (All)
+  * [M24] D6.8.1-2 Report: Evaluation report (release 2) (All)
+  * [M36] D6.8.1-3 Report: Evaluation report (release 3) (All)
 
 Work Package 7
 ---
