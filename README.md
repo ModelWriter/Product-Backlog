@@ -225,7 +225,7 @@ Work Package 2
 |:----- |:----------- 
 | [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
 
-**T2.5 - Development of the semantic parser and of the generator** `(LORIA + KUL)`
+**T2.5 - Development of the semantic parser and of the generator** `(LORIA + KUL + MANTIS + VUB + EADS)`
 
   * Specification of the Knowledge Representation Language(s) `[VUB + KUL + LORIA]`
 
