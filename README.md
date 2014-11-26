@@ -314,25 +314,24 @@ Work Package 7
 ---
 **WP7 - Dissemination and Exploitation**
 * **T7.1 - Dissemination Plan** (Obeo + UNIT + SA + LORIA + KS + ALL)
-  * D7.1.1 Dissemination Plan                                                                                                
+  * [M4] D7.1.1 Dissemination Plan
 * **T7.2 - Business Model & Exploitation Plan** (EADS Fr IW + SA + Obeo + all industrial partners)
-  * D7.2.1 Exploitation Plan                                                                                                 
-  * D7.2.1-1 Exploitation Plan Y1
-  * D7.2.1-2 Exploitation Plan Updated Y2                                                                                   
-  * D7.2.1-3 Exploitation Plan Updated Y3                                                                                  
-  * D7.2.2 Marketing Plan                                                                                                    
-  * D7.2.3 Roadmap for future exploitation and pre-competition survey                                                        
+  * [M7] D7.2.1-1 Exploitation Plan (release 1)
+  * [M22] D7.2.1-2 Exploitation Plan (release 2)
+  * [M34] D7.2.1-3 Exploitation Plan (release 3)
+  * [M7] D7.2.2 Marketing Plan
+  * [M34] D7.2.3 Roadmap for future exploitation and pre-competition survey
 * **T7.3 - Workshops & Events** (VUB + UNIT + Obeo + KS + EADS Fr IW + ALL)
-  * D7.3.1 Newsletter - International Conference Announcement
+  * [31] D7.3.1 Newsletter - International Conference Announcement
 * **T7.4 - ModelWriter-ITEA Consortium Website** (SA)
-  * D7.4.1 ModelWriter-ITEA website including secured intranet
+  * [M1] D7.4.1 ModelWriter-ITEA website including secured intranet
 * **T7.5 - Community Forum & Open Source Campaign** (VUB + Obeo)
-  * D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
-  * D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
+  * [M10] D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
+  * [M10] D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
 * **T7.6 - Social Networks** (UNIT + KS)
-  * D7.6.1 ModelWriter-ITEA's Facebook Group
-  * D7.6.2 ModelWriter-ITEA's LinkedIn Group
-  * D7.6.3 ModelWriter-ITEA's Twitter Group
-  * D7.6.4 ModelWriter-ITEA's Yammer Group
+  * [M10] D7.6.1 ModelWriter-ITEA's Facebook Group
+  * [M10] D7.6.2 ModelWriter-ITEA's LinkedIn Group
+  * [M10] D7.6.3 ModelWriter-ITEA's Twitter Group
+  * [M10] D7.6.4 ModelWriter-ITEA's Yammer Group
 * **T7.7 - Standardization** (LORIA + UNIT + KS)
-  * D7.7.1 ModelWriter and standardization activities.
+  * [M34] D7.7.1 ModelWriter and standardization activities.
