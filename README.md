@@ -14,7 +14,7 @@ Project Coordination Committee (PCC)
 |:-------------------------------------|:---------------------- |:---------------------- |
 | [UNIT](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#unit) |Ferhat Erata |Moharram Challenger | 
 | [OBEO](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#obeo) |Etienne Juliot |Marwa Rostren |
-| [MANTIS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |                	
+| [MANTIS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |
 | [EADS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#eads) |Anne Monceaux |? |
 | [LORIA](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#loria) |Claire Gardent |Samuel Cruz-Lara |
 | [KOCSISTEM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kocsistem) |Mehmet Önat |Hale Gezgen |
@@ -48,7 +48,7 @@ UNIT
 
 OBEO
 ----
-**OBEO**
+**OBEO Software Company**
 
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
@@ -129,13 +129,13 @@ Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 ***
-**T1.1 - Evaluation Methods & Tools** [UNIT + KOCSISTEM + EADS + SA + OBEO + HISBIM + MANTIS]
+**T1.1 - Evaluation Methods & Tools** `[UNIT + KOCSISTEM + EADS + SA + OBEO + HISBIM + MANTIS]`
 
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.1.1 Report: Evaluation Methods & Tools |
 
-**T1.2 - Industrial Use Cases for Belgian Consortium** (EADS)
+**T1.2 - Industrial Use Cases for Belgian Consortium** `[EADS]`
 
 | Month | Deliverable |
 |:----- |:----------- |
