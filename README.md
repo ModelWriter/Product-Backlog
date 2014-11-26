@@ -130,11 +130,13 @@ Work Package 1
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 ***
 **T1.1 - Evaluation Methods & Tools** [UNIT + KS + Industrial Use Cases partners]
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.1.1 Report: Evaluation Methods & Tools |
 
 **T1.2 - Industrial Use Cases for Belgian Consortium** (EADS)
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium |
@@ -142,6 +144,7 @@ Work Package 1
 | [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) |
 
 **T1.3 - Industrial Use Cases for French Consortium** (Obeo + EADS)
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium
@@ -149,6 +152,7 @@ Work Package 1
 | [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part)
 
 **T1.4 - Industrial Use Cases for Turkish Consortium** (Mantis + UNIT + KocSistem + HISBIM)
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium
@@ -156,26 +160,31 @@ Work Package 1
 | [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)
 
 **T1.5 - Consolidated User Requirements** (EADS + Country Coordinators)
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter
 
 **T1.6 - User Requirements Review** (EADS + UNIT+ KS + KUL + ALL)
+
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting
 
 **T1.7 - Software Requirements** (EADS + WP2 to WP7 leaders)
+
 | Month | Deliverable 
 |:----- |:----------- 
 | [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
 
 **T1.8 - Software Requirements Review** (EADS + UNIT + KS + KUL + ALL)
+
 | Month | Deliverable 
 |:----- |:----------- 
 | [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting
 
 **T1.9 - Annual Product Review** (EADS + Country Coordinators)
+
 | Month | Deliverable 
 |:----- |:----------- 
 | [M13] | D1.9.1-1 Report: Annual Product Owner Review
@@ -183,6 +192,7 @@ Work Package 1
 | [M37] | D1.9.1-3 Report: Annual Product Owner Review
 
 **T1.10 - Technical Risk Assessment and Management** (Obeo + UNIT + KS+ ALL)
+
 | Month | Deliverable 
 |:----- |:----------- 
 | [M5]  | D1.10.1 Technical Risk Assessment Document
