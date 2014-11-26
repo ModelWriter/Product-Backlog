@@ -226,13 +226,14 @@ Work Package 2
 | [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
 
 **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
-  * [VUB,KUL,LORIA]
+
+  * Specification of the Knowledge Representation Language(s) [VUB,KUL,LORIA]
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator 
 
-  * - [KUL,LORIA] 
+  * Semantic Parser and Software Documentation [KUL,LORIA] 
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -240,7 +241,7 @@ Work Package 2
 | [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
 | [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3)
 
-  * - [LORIA,KUL]
+  * Natural Language Generator and Software Documentation [LORIA,KUL]
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -248,7 +249,7 @@ Work Package 2
 | [M20] | D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2)
 | [M28] | D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3)
 
-  * - [SA]
+  * Integration in ModelWriter and Software Documentation [SA]
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -261,38 +262,72 @@ Work Package 3
 **WP3 - Model to/from Knowledge Base (UNIT)**
 ***
 * **T3.1 - Review of M2M transformation approaches**  (UNIT + KS)
-  * [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
-* **T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KS)
-  * [M4] D3.2.1 M2M Transformation Framework architectural design document.
-* **T3.3 - Development of the Transformation Manager component** (UNIT)
-  * [M5] D3.3.1 Transformation Manager architectural (TRAM) design document.
-  * [M8] D3.3.2-1 Software: Transformation Manager component (release 1)
-  * [M20] D3.3.2-2 Software: Transformation Manager component (release 2)
-  * [M30] D3.3.2-3 Software: Transformation Manager component (release 3)
-* **T3.4 - Development of the Configuration Manager (COM) component** (UNIT)
-  * [M6] D3.4.1 Configuration Manager architectural design document.
-  * [M8] D3.4.2-1 Software: Configuration Manager component (release 1)
-  * [M20] D3.4.2-2 Software: Configuration Manager component (release 2)
-  * [M30] D3.4.2-3 Software: Configuration Manager component (release 3)
-* **T3.5 - Development of the Traceability Manager component** (UNIT)
-  * [M7] D3.5.1 Traceability Manager architectural design document.
-  * [M8] D3.5.2-1 Software: Traceability Manager component (release 1)
-  * [M20] D3.5.2-2 Software: Traceability Manager component (release 2)
-  * [M30] D3.5.2-3 Software: Traceability Manager component (release 3)
-* **T3.6 - Development of the Synchronization Manager component** (UNIT)
-  * [M8] D3.6.1 Synchronization Manager architectural design document.
-  * [M8] D3.6.2-1 Software: Synchronization Manager component (release 1)
-  * [M20] D3.6.2-2 Software: Synchronization Manager component (release 2)
-  * [M30] D3.6.2-3 Software: Synchronization Manager component (release 3)
-* **T3.7 - Design of the model-to-model transformations** (UNIT + Mantis + VUB)
-  * [M18] D3.7.1 Model-to-model transformations (from user-visible models to KB-stored models) design document.
-* **T3.8 - Implementation of the model-to-model transformations** (UNIT + VUB)
-  * [M11] D3.8.1-1 Software: Source and binary code of each model-to-model transformation (release 1)
-  * [M21] D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2)
-  * [M31] D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3)
-* **T3.9 - Validation of the M2M Transformation Framework** (UNIT + Mantis + VUB + KS)
-  * [M32] D3.9.1 Test-plan for the M2M Transformation Framework.
-  * [M33] D3.9.2 Field experiment concerning ModelWriter model transformations
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
+
+**T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4] D3.2.1 M2M Transformation Framework architectural design document.
+
+**T3.3 - Development of the Transformation Manager component** (UNIT)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M5]  | D3.3.1 Transformation Manager architectural (TRAM) design document.
+| [M8]  | D3.3.2-1 Software: Transformation Manager component (release 1)
+| [M20] | D3.3.2-2 Software: Transformation Manager component (release 2)
+| [M30] | D3.3.2-3 Software: Transformation Manager component (release 3)
+
+**T3.4 - Development of the Configuration Manager (COM) component** (UNIT)
+| Month | Deliverable 
+|:----- |:----------- 
+| [M6]  | D3.4.1 Configuration Manager architectural design document.
+| [M8]  | D3.4.2-1 Software: Configuration Manager component (release 1)
+| [M20] | D3.4.2-2 Software: Configuration Manager component (release 2)
+| [M30] | D3.4.2-3 Software: Configuration Manager component (release 3)
+
+**T3.5 - Development of the Traceability Manager component** (UNIT)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M7]  | D3.5.1 Traceability Manager architectural design document.
+| [M8]  | D3.5.2-1 Software: Traceability Manager component (release 1)
+| [M20] | D3.5.2-2 Software: Traceability Manager component (release 2)
+| [M30] | D3.5.2-3 Software: Traceability Manager component (release 3)
+
+**T3.6 - Development of the Synchronization Manager component** (UNIT)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M8]  | D3.6.1 Synchronization Manager architectural design document.
+| [M8]  | D3.6.2-1 Software: Synchronization Manager component (release 1)
+| [M20] | D3.6.2-2 Software: Synchronization Manager component (release 2)
+| [M30] | D3.6.2-3 Software: Synchronization Manager component (release 3)
+
+**T3.7 - Design of the model-to-model transformations** (UNIT + Mantis + VUB)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M18] | D3.7.1 Model-to-model transformations (from user-visible models to KB-stored models) design document.
+
+**T3.8 - Implementation of the model-to-model transformations** (UNIT + VUB)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M11] | D3.8.1-1 Software: Source and binary code of each model-to-model transformation (release 1)
+| [M21] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2)
+| [M31] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3)
+
+**T3.9 - Validation of the M2M Transformation Framework** (UNIT + Mantis + VUB + KS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M32] | D3.9.1 Test-plan for the M2M Transformation Framework.
+| [M33] | D3.9.2 Field experiment concerning ModelWriter model transformations
 
 Work Package 4
 ---
