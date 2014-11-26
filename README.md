@@ -153,11 +153,11 @@ Work Package 1
 
 **T1.4 - Industrial Use Cases for Turkish Consortium** `[MANTIS + UNIT + KOCSISTEM + HISBIM]`
 
-| Month | Deliverable |
-|:----- |:----------- |
-| [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium
-| [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part)
-| [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
+| [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium | MANTIS
+| [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part) | MANTIS
+| [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)| MANTIS
 
 **T1.5 - Consolidated User Requirements** `(EADS + OBEO + MANTIS + SA)`
 
