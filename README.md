@@ -261,17 +261,17 @@ Work Package 3
 ---
 **WP3 - Model to/from Knowledge Base (UNIT)**
 ***
-* **T3.1 - Review of M2M transformation approaches**  (UNIT + KS)
+**T3.1 - Review of M2M transformation approaches**  (UNIT + KS)
 
 | Month | Deliverable 
 |:----- |:----------- 
-| [M3] D3.1.1 Review of model-to-model transformation approaches and technologies.
+| [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies.
 
 **T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KS)
 
 | Month | Deliverable 
 |:----- |:----------- 
-| [M4] D3.2.1 M2M Transformation Framework architectural design document.
+| [M4]  | D3.2.1 M2M Transformation Framework architectural design document.
 
 **T3.3 - Development of the Transformation Manager component** (UNIT)
 
@@ -283,6 +283,7 @@ Work Package 3
 | [M30] | D3.3.2-3 Software: Transformation Manager component (release 3)
 
 **T3.4 - Development of the Configuration Manager (COM) component** (UNIT)
+
 | Month | Deliverable 
 |:----- |:----------- 
 | [M6]  | D3.4.1 Configuration Manager architectural design document.
@@ -332,52 +333,111 @@ Work Package 3
 Work Package 4
 ---
 **WP4 - Knowledge Base Design and Implementation (Mantis)**
-* **T4.1 - Design of the Knowledge Base** (VUB + SA + Obeo + Mantis + UNIT + KS)
-  * [M6] D4.1.1 Report: Knowledge Base Design document
-* **T4.2 - API of the Knowledge Base** (VUB + KS + Obeo + UNIT)
-  * [M6] D4.2.1 Report: Interface Control Document (ICD)
-* **T4.3 - Implementation of the Knowledge Base** (VUB)
-  * [11] D4.3.1-1 Software: Knowledge Base (release 1)
-  * [19] D4.3.1-2 Software: Knowledge Base (release 2)
-  * [31] D4.3.1-3 Software: Knowledge Base (release 3)
-* **T4.4 - Plug-in #1: ModelWriter-assisted requirements review** (VUB + SA)
-  * [M35] D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
-  * [M35] D4.4.2 Software: Proof-of-concept model checker
-* **T4.5 - Knowledge Base serialization and reuse plug-in** (Mantis)
-  * [M11] D4.5.1 Report: Technical Note for KB serialization and reuse
-* **T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** (Obeo + Mantis)
-  * [M20] D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents
-  * [M11] D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1)
-  * [M19] D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2)
-  * [M31] D4.6.2-3 Software: Proof-of-concept semantic comparison engine (release 3)
-* **T4.7 - Plug-in #2: ModelWriter-assisted compliance review** (SA)
-  * [M10] D4.7.1 Report: Future ModelWriter-Enabled Use Cases
-* **T4.9 - Internal bi-directional synchronization mechanism** (Obeo + UNIT)
-* **T4.10 – External synchronization mechanism for collaborating ModelWriters** (SA)
+***
+**T4.1 - Design of the Knowledge Base** (VUB + SA + Obeo + Mantis + UNIT + KS)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M6]  | D4.1.1 Report: Knowledge Base Design document
+
+**T4.2 - API of the Knowledge Base** (VUB + KS + Obeo + UNIT)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M6]  | D4.2.1 Report: Interface Control Document (ICD)
+
+**T4.3 - Implementation of the Knowledge Base** (VUB)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [11]  | D4.3.1-1 Software: Knowledge Base (release 1)
+| [19]  | D4.3.1-2 Software: Knowledge Base (release 2)
+| [31]  | D4.3.1-3 Software: Knowledge Base (release 3)
+
+**T4.4 - Plug-in #1: ModelWriter-assisted requirements review** (VUB + SA)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M35] | D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
+| [M35] | D4.4.2 Software: Proof-of-concept model checker
+
+**T4.5 - Knowledge Base serialization and reuse plug-in** (Mantis)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M11] | D4.5.1 Report: Technical Note for KB serialization and reuse
+
+**T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** (Obeo + Mantis)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M20] | D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents
+| [M11] | D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1)
+| [M19] | D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2)
+| [M31] | D4.6.2-3 Software: Proof-of-concept semantic comparison engine (release 3)
+
+**T4.7 - Plug-in #2: ModelWriter-assisted compliance review** (SA)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D4.7.1 Report: Future ModelWriter-Enabled Use Cases
+
+**T4.9 - Internal bi-directional synchronization mechanism** (Obeo + UNIT)
+
+**T4.10 – External synchronization mechanism for collaborating ModelWriters** (SA)
 
 Work Package 5
 ---
 **WP5 - Project Management (UNIT)**
-* **T5.1 - Project and Stage Plans** (UNIT + WP Leaders)
-  * [M13] D5.1.1-1 Management reports and cost statements (confidential) (release 1)
-  * [M25] D5.1.1-2 Management reports and cost statements (confidential) (release 2)
-  * [M37] D5.1.1-3 Management reports and cost statements (confidential) (release 3)
-* **T5.2 - Project Controls** (UNIT + WP Leaders)
-  * [M2] D5.2.1 Project Controls
-  * [M12] D5.2.1-1 Project and Next Management Stage Plan (release 1)
-  * [M24] D5.2.1-2 Project and Next Management Stage Plan (release 2)
-* **T5.3 - Project Monitoring** (UNIT+ WP Leaders)
-* **T5.4 - Communication Management and Infrastructure** (UNIT+ WP7 leader)
-  * [M4] D5.4.1 Communication Management Strategy (A4)
-* **T5.5 - Risk Management and Infrastructure** (UNIT+ WP Leaders)
-  * [M4] D5.5.1 Risk Management Strategy (A24)
-* **T5.6 - Configuration Management and Infrastructure** (UNIT+ WP Leaders)
-  * [M4] D5.6.1 Configuration Management Strategy (A6)
-* **T5.7 - Quality Management and Infrastructure** (UNIT+ WP Leaders)
-  * [M4] D5.7.1 Quality Management Strategy (A22)
-* **T5.8 - Closing Project** (UNIT+ WP Leaders)
-  * [37] D5.8.1 Final project report (Public Deliverable)
-  * [37] D5.8.2 Updated State-of-the-art (Public Deliverable)
+***
+**T5.1 - Project and Stage Plans** (UNIT + WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M13] | D5.1.1-1 Management reports and cost statements (confidential) (release 1)
+| [M25] | D5.1.1-2 Management reports and cost statements (confidential) (release 2)
+| [M37] | D5.1.1-3 Management reports and cost statements (confidential) (release 3)
+
+**T5.2 - Project Controls** (UNIT + WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M2]  | D5.2.1 Project Controls
+| [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1)
+| [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2)
+
+**T5.3 - Project Monitoring** (UNIT+ WP Leaders)
+
+**T5.4 - Communication Management and Infrastructure** (UNIT+ WP7 leader)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D5.4.1 Communication Management Strategy (A4)
+
+**T5.5 - Risk Management and Infrastructure** (UNIT+ WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D5.5.1 Risk Management Strategy (A24)
+
+**T5.6 - Configuration Management and Infrastructure** (UNIT+ WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D5.6.1 Configuration Management Strategy (A6)
+
+**T5.7 - Quality Management and Infrastructure** (UNIT+ WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M4]  | D5.7.1 Quality Management Strategy (A22)
+
+**T5.8 - Closing Project** (UNIT+ WP Leaders)
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [37]  | D5.8.1 Final project report (Public Deliverable)
+| [37]  | D5.8.2 Updated State-of-the-art (Public Deliverable)
 
 Work Package 6
 ---
