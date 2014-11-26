@@ -78,7 +78,7 @@ For details on the scrum of scrum process see [`wiki page`](https://github.com/m
 
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
-|Prof.Erhan Mengüsoğlu |erhanmengusoglu@mantis.com.tr |@ |
+|Prof.Erhan Mengüsoğlu |erhanmengusoglu@mantis.com.tr |@mengusoglu |
 |Dr. Güven Köse |guvenkose@mantis.com.tr |@ |
 
 [KOCSISTEM](https://github.com/orgs/ModelWriter/teams/kocsistem)
@@ -161,40 +161,40 @@ Work Package 1
 
 **T1.5 - Consolidated User Requirements** `(EADS + OBEO + MANTIS + SA)`
 
-| Month | Deliverable |
-|:----- |:----------- |
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter
 
 **T1.6 - User Requirements Review** `(EADS + UNIT+ KOCSISTEM + KUL + ALL)`
 
-| Month | Deliverable |
-|:----- |:----------- |
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting
 
 **T1.7 - Software Requirements** `(EADS + WP2 to WP7 leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable  Leader
+|:----- |:----------- |:-------
 | [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
 
 **T1.8 - Software Requirements Review** `(EADS + UNIT + KOCSISTEM + KUL + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable  Leader
+|:----- |:----------- |:-------
 | [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting
 
 **T1.9 - Annual Product Review** `(EADS + Country Coordinators)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable  Leader
+|:----- |:----------- |:-------
 | [M13] | D1.9.1-1 Report: Annual Product Owner Review
 | [M25] | D1.9.1-2 Report: Annual Product Owner Review
 | [M37] | D1.9.1-3 Report: Annual Product Owner Review
 
 **T1.10 - Technical Risk Assessment and Management** `(OBEO + UNIT + KOCSISTEM + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable  Leader
+|:----- |:----------- |:-------
 | [M5]  | D1.10.1 Technical Risk Assessment Document
 
 Work Package 2
