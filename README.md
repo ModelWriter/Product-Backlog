@@ -203,56 +203,56 @@ Work Package 2
 ***
 **T2.1 - Data Collection** `(LORIA + KUL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
-| [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
+| [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases |
 
 **T2.2 - Hybrid approaches to semantic parsing** `(KUL + LORIA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M4]  | D2.2.1 Report: Overview and comparison of existing deep semantic parsers
 
 **T2.3 - Hybrid approaches to Natural Language Generation** `(LORIA + KUL)` 
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M5]  | D2.3.1 Report: Overview and comparison of existing generators
 
 **T2.4 - Definition of the target semantic representation language** `(LORIA + KUL + EADS)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora
 
 **T2.5 - Development of the semantic parser and of the generator** `(LORIA + KUL + MANTIS + VUB + EADS)`
 
   * Specification of the Knowledge Representation Language(s) `[VUB + KUL + LORIA]`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator 
 
   * Semantic Parser and Software Documentation `[KUL + LORIA]`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M8]  | D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1)
 | [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
 | [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3)
 
   * Natural Language Generator and Software Documentation `[LORIA + KUL]`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M8]  | D2.5.3-1 Software: Natural Language Generator and Report: Software Documentation (release 1)
 | [M20] | D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2)
 | [M28] | D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3)
 
   * Integration in ModelWriter and Software Documentation `[SA]`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M10] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 1)
 | [M22] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2)
 | [M30] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3)
@@ -263,20 +263,20 @@ Work Package 3
 ***
 **T3.1 - Review of M2M transformation approaches**  `(UNIT + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies.
 
 **T3.2 - Specification and design of the M2M Transformation Framework** `(UNIT + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M4]  | D3.2.1 M2M Transformation Framework architectural design document.
 
 **T3.3 - Development of the Transformation Manager component** `(UNIT)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M5]  | D3.3.1 Transformation Manager architectural (TRAM) design document.
 | [M8]  | D3.3.2-1 Software: Transformation Manager component (release 1)
 | [M20] | D3.3.2-2 Software: Transformation Manager component (release 2)
@@ -284,8 +284,8 @@ Work Package 3
 
 **T3.4 - Development of the Configuration Manager (COM) component** `(UNIT)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M6]  | D3.4.1 Configuration Manager architectural design document.
 | [M8]  | D3.4.2-1 Software: Configuration Manager component (release 1)
 | [M20] | D3.4.2-2 Software: Configuration Manager component (release 2)
@@ -293,8 +293,8 @@ Work Package 3
 
 **T3.5 - Development of the Traceability Manager component** `(UNIT)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M7]  | D3.5.1 Traceability Manager architectural design document.
 | [M8]  | D3.5.2-1 Software: Traceability Manager component (release 1)
 | [M20] | D3.5.2-2 Software: Traceability Manager component (release 2)
@@ -302,8 +302,8 @@ Work Package 3
 
 **T3.6 - Development of the Synchronization Manager component** `(UNIT)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M8]  | D3.6.1 Synchronization Manager architectural design document.
 | [M8]  | D3.6.2-1 Software: Synchronization Manager component (release 1)
 | [M20] | D3.6.2-2 Software: Synchronization Manager component (release 2)
@@ -311,22 +311,22 @@ Work Package 3
 
 **T3.7 - Design of the model-to-model transformations** `(UNIT + MANTIS + VUB)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M18] | D3.7.1 Model-to-model transformations (from user-visible models to KB-stored models) design document.
 
 **T3.8 - Implementation of the model-to-model transformations** `(UNIT + VUB)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M11] | D3.8.1-1 Software: Source and binary code of each model-to-model transformation (release 1)
 | [M21] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2)
 | [M31] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3)
 
 **T3.9 - Validation of the M2M Transformation Framework** `(UNIT + MANTIS + VUB + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M32] | D3.9.1 Test-plan for the M2M Transformation Framework.
 | [M33] | D3.9.2 Field experiment concerning ModelWriter model transformations
 
@@ -336,41 +336,41 @@ Work Package 4
 ***
 **T4.1 - Design of the Knowledge Base** `(VUB + SA + OBEO + MANTIS + UNIT + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M6]  | D4.1.1 Report: Knowledge Base Design document
 
 **T4.2 - API of the Knowledge Base** `(VUB + KS + OBEO + UNIT)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M6]  | D4.2.1 Report: Interface Control Document (ICD)
 
 **T4.3 - Implementation of the Knowledge Base** `(VUB)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [11]  | D4.3.1-1 Software: Knowledge Base (release 1)
 | [19]  | D4.3.1-2 Software: Knowledge Base (release 2)
 | [31]  | D4.3.1-3 Software: Knowledge Base (release 3)
 
 **T4.4 - Plug-in #1: ModelWriter-assisted requirements review** `(VUB + SA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M35] | D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
 | [M35] | D4.4.2 Software: Proof-of-concept model checker
 
 **T4.5 - Knowledge Base serialization and reuse plug-in** `(MANTIS)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M11] | D4.5.1 Report: Technical Note for KB serialization and reuse
 
 **T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** `(OBEO + MANTIS)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M20] | D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents
 | [M11] | D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1)
 | [M19] | D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2)
@@ -378,8 +378,8 @@ Work Package 4
 
 **T4.7 - Plug-in #2: ModelWriter-assisted compliance review** `(SA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M10] | D4.7.1 Report: Future ModelWriter-Enabled Use Cases
 
 **T4.9 - Internal bi-directional synchronization mechanism** `(OBEO + UNIT)`
@@ -392,16 +392,16 @@ Work Package 5
 ***
 **T5.1 - Project and Stage Plans** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M13] | D5.1.1-1 Management reports and cost statements (confidential) (release 1)
 | [M25] | D5.1.1-2 Management reports and cost statements (confidential) (release 2)
 | [M37] | D5.1.1-3 Management reports and cost statements (confidential) (release 3)
 
 **T5.2 - Project Controls** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M2]  | D5.2.1 Project Controls
 | [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1)
 | [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2)
@@ -410,32 +410,32 @@ Work Package 5
 
 **T5.4 - Communication Management and Infrastructure** `(UNIT + WP7 leader)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
 | [M4]  | D5.4.1 Communication Management Strategy (A4)
 
 **T5.5 - Risk Management and Infrastructure** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M4]  | D5.5.1 Risk Management Strategy (A24)
 
 **T5.6 - Configuration Management and Infrastructure** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M4]  | D5.6.1 Configuration Management Strategy (A6)
 
 **T5.7 - Quality Management and Infrastructure** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M4]  | D5.7.1 Quality Management Strategy (A22)
 
 **T5.8 - Closing Project** `(UNIT + WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [37]  | D5.8.1 Final project report (Public Deliverable)
 | [37]  | D5.8.2 Updated State-of-the-art (Public Deliverable)
 
@@ -445,20 +445,20 @@ Work Package 6
 ***
 **T6.1 - Experimental Prototyping** `(OBEO + SA +  VUB)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M5]  | D6.1.1 Software: Prototype Core ModelWriter (OBEO, SA, VUB)
 
 **T6.2 - Architectural Design** `(OBEO + SA + VUB + MANTIS + UNIT + technological WP Leaders)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (OBEO, SA, VUB, Mantis)
 
 **T6.3 - Writer Part enhancements** `(SA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D6.3.1-1 Software: Writer enhancements (release 1) (SA)
 | [M20] | D6.3.1-2 Software: Writer enhancements (release 2) (SA)
 | [M34] | D6.3.1-3 Software: Writer enhancements (release 3) (SA)
@@ -467,8 +467,8 @@ Work Package 6
 
 * User Interface for the Writer part `(SA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part
 | [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1)
 | [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2)
@@ -476,16 +476,16 @@ Work Package 6
 
 * Software: IDE-integrated User Interface to handle Synchronization  `(Obeo)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1)
 | [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2)
 | [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3)
 
 **T6.5 - Acceptance Test Plan** `(SA + UNIT + KS + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all)
 | [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all)
 | [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all)
@@ -495,24 +495,24 @@ Work Package 6
 
 **T6.6 - Acceptance Test Procedures** `(SA + UNIT + KS + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all)
 | [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all)
 | [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all)
 
 **T6.7 - ModelWriter Integration** `(OBEO + UNIT + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) (OBEO)
 | [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) (OBEO)
 | [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) (OBEO)
 
 **T6.8 - Cyclic Evaluation of Analysis Performance** `(SA + OBEO + LORIA + UNIT + KS + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M12] | D6.8.1-1 Report: Evaluation report (release 1) (All)
 | [M24] | D6.8.1-2 Report: Evaluation report (release 2) (All)
 | [M36] | D6.8.1-3 Report: Evaluation report (release 3) (All)
@@ -523,14 +523,14 @@ Work Package 7
 ***
 **T7.1 - Dissemination Plan** `(OBEO + UNIT + SA + LORIA + KS + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M4]  | D7.1.1 Dissemination Plan
 
 **T7.2 - Business Model & Exploitation Plan** `(EADS + SA + OBEO + all industrial partners)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------  
 | [M7]  | D7.2.1-1 Exploitation Plan (release 1)
 | [M22] | D7.2.1-2 Exploitation Plan (release 2)
 | [M34] | D7.2.1-3 Exploitation Plan (release 3)
@@ -539,27 +539,27 @@ Work Package 7
 
 **T7.3 - Workshops & Events** `(VUB + UNIT + OBEO + KS + EADS + ALL)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------  
 | [31]  | D7.3.1 Newsletter - International Conference Announcement
 
 **T7.4 - ModelWriter-ITEA Consortium Website** `(SA)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet
 
 **T7.5 - Community Forum & Open Source Campaign** `(VUB + OBEO)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
 | [M10] | D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
  
 **T7.6 - Social Networks** `(UNIT + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M10] | D7.6.1 ModelWriter-ITEA's Facebook Group
 | [M10] | D7.6.2 ModelWriter-ITEA's LinkedIn Group
 | [M10] | D7.6.3 ModelWriter-ITEA's Twitter Group
@@ -567,6 +567,6 @@ Work Package 7
 
 **T7.7 - Standardization** `(LORIA + UNIT + KOCSISTEM)`
 
-| Month | Deliverable 
-|:----- |:----------- 
+| Month | Deliverable | Leader
+|:----- |:----------- |:------- 
 | [M34] | D7.7.1 ModelWriter and standardization activities.
