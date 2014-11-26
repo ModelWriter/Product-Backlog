@@ -465,15 +465,22 @@ Work Package 6
 
 **T6.4 User Interfaces Implementation** `(SA + OBEO)`
 
+* User Interface for the Writer part `(SA)`
+
 | Month | Deliverable 
 |:----- |:----------- 
-| [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part (SA)
-| [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1) (SA)
-| [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2) (SA)
-| [M34] | D6.4.2-3 Software: User Interface for the Writer part (release 3) (SA)
-| [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) (Obeo)
-| [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) (Obeo)
-| [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) (Obeo)
+| [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part
+| [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1)
+| [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2)
+| [M34] | D6.4.2-3 Software: User Interface for the Writer part (release 3)
+
+* Software: IDE-integrated User Interface to handle Synchronization  `(Obeo)`
+
+| Month | Deliverable 
+|:----- |:----------- 
+| [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1)
+| [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2)
+| [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3)
 
 **T6.5 - Acceptance Test Plan** `(SA + UNIT + KS + ALL)`
 
