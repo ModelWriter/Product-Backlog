@@ -144,13 +144,21 @@ Work Package 1
 | [M3] | D1.2.3 Data: Corpus for D1.1.1 (confidential part) |
 
 * **T1.3 - Industrial Use Cases for French Consortium** (Obeo + EADS)
-  * [M3] D1.3.1 Report: Industrial Use Cases for French Consortium
-  * [M3] D1.3.2 Data: Corpus for D1.2.1 (public part)
-  * [M3] D1.3.3 Data: Corpus for D1.2.1 (confidential part)
+
+| Month | Deliverable |
+|:----- |:----------- |
+| [M3] | D1.3.1 Report: Industrial Use Cases for French Consortium
+| [M3] | D1.3.2 Data: Corpus for D1.2.1 (public part)
+| [M3] | D1.3.3 Data: Corpus for D1.2.1 (confidential part)
+
 * **T1.4 - Industrial Use Cases for Turkish Consortium** (Mantis + UNIT + KocSistem + HISBIM)
-  * [M3] D1.4.1 Report: Industrial Use Cases for Turkish Consortium
-  * [M3] D1.4.2 Data: Corpus for D1.4.1 (public part)
-  * [M3] D1.4.3 Data: Corpus for D1.4.1 (confidential part)
+
+| Month | Deliverable |
+|:----- |:----------- |
+| [M3] | D1.4.1 Report: Industrial Use Cases for Turkish Consortium
+| [M3] | D1.4.2 Data: Corpus for D1.4.1 (public part)
+| [M3] | D1.4.3 Data: Corpus for D1.4.1 (confidential part)
+
 * **T1.5 - Consolidated User Requirements** (EADS + Country Coordinators)
   * [M3] D1.5.1 Report: User Requirements Document (URD) for ModelWriter
 * **T1.6 - User Requirements Review** (EADS + UNIT+ KS + KUL + ALL)
