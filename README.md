@@ -131,17 +131,17 @@ Work Package 1
 ***
 **T1.1 - Evaluation Methods & Tools** `[UNIT + KOCSISTEM + EADS + SA + OBEO + HISBIM + MANTIS]`
 
-| Month | Deliverable |
-|:----- |:----------- |
-| [M3]  | D1.1.1 Report: Evaluation Methods & Tools |
+| Month | Deliverable | Leader
+|:----- |:----------- |:-------
+| [M3]  | D1.1.1 Report: Evaluation Methods & Tools | UNIT
 
 **T1.2 - Industrial Use Cases for Belgian Consortium** `[EADS]`
 
-| Month | Deliverable |
-|:----- |:----------- |
-| [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium |
-| [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) |
-| [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) |
+| Month | Deliverable | Leader
+|:----- |:----------- | :-------
+| [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium | EADS
+| [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) | EADS
+| [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) | EADS
 
 **T1.3 - Industrial Use Cases for French Consortium** `[OBEO + EADS]`
 
