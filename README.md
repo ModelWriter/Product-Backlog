@@ -125,7 +125,7 @@ Therefore:
 * First day of project is M1.
 * End of a 3-year project is expressed as M37
 
-Work Package 1 [TOP](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#product-backlog)
+Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 ***
