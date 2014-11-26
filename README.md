@@ -129,7 +129,7 @@ Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
 ***
-**T1.1 - Evaluation Methods & Tools** [UNIT + KS + Industrial Use Cases partners]
+**T1.1 - Evaluation Methods & Tools** [UNIT + KOCSISTEM + EADS + SA + OBEO + HISBIM + MANTIS]
 
 | Month | Deliverable |
 |:----- |:----------- |
@@ -143,7 +143,7 @@ Work Package 1
 | [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) |
 | [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) |
 
-**T1.3 - Industrial Use Cases for French Consortium** (Obeo + EADS)
+**T1.3 - Industrial Use Cases for French Consortium** (OBEO + EADS)
 
 | Month | Deliverable |
 |:----- |:----------- |
@@ -151,7 +151,7 @@ Work Package 1
 | [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part)
 | [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part)
 
-**T1.4 - Industrial Use Cases for Turkish Consortium** (Mantis + UNIT + KocSistem + HISBIM)
+**T1.4 - Industrial Use Cases for Turkish Consortium** (MANTIS + UNIT + KOCSISTEM + HISBIM)
 
 | Month | Deliverable |
 |:----- |:----------- |
@@ -159,13 +159,13 @@ Work Package 1
 | [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part)
 | [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)
 
-**T1.5 - Consolidated User Requirements** (EADS + Country Coordinators)
+**T1.5 - Consolidated User Requirements** (EADS + OBEO + MANTIS + SA)
 
 | Month | Deliverable |
 |:----- |:----------- |
 | [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter
 
-**T1.6 - User Requirements Review** (EADS + UNIT+ KS + KUL + ALL)
+**T1.6 - User Requirements Review** (EADS + UNIT+ KOCSISTEM + KUL + ALL)
 
 | Month | Deliverable |
 |:----- |:----------- |
@@ -177,7 +177,7 @@ Work Package 1
 |:----- |:----------- 
 | [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter
 
-**T1.8 - Software Requirements Review** (EADS + UNIT + KS + KUL + ALL)
+**T1.8 - Software Requirements Review** (EADS + UNIT + KOCSISTEM + KUL + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -191,7 +191,7 @@ Work Package 1
 | [M25] | D1.9.1-2 Report: Annual Product Owner Review
 | [M37] | D1.9.1-3 Report: Annual Product Owner Review
 
-**T1.10 - Technical Risk Assessment and Management** (Obeo + UNIT + KS+ ALL)
+**T1.10 - Technical Risk Assessment and Management** (OBEO + UNIT + KOCSISTEM + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -201,25 +201,25 @@ Work Package 2
 ---
 **WP2 - Semantic Parsing and Generation of Documents and Documents Components (LORIA)**
 ***
-**T2.1 - Data Collection** (LORIA+KUL)
+**T2.1 - Data Collection** (LORIA + KUL)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases
 
-**T2.2 - Hybrid approaches to semantic parsing** (KUL+LORIA)
+**T2.2 - Hybrid approaches to semantic parsing** (KUL + LORIA)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D2.2.1 Report: Overview and comparison of existing deep semantic parsers
 
-**T2.3 - Hybrid approaches to Natural Language Generation** (LORIA+KUL) 
+**T2.3 - Hybrid approaches to Natural Language Generation** (LORIA + KUL) 
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M5]  | D2.3.1 Report: Overview and comparison of existing generators
 
-**T2.4 - Definition of the target semantic representation language** (LORIA+KUL+EADS)
+**T2.4 - Definition of the target semantic representation language** (LORIA + KUL + EADS)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -227,13 +227,13 @@ Work Package 2
 
 **T2.5 - Development of the semantic parser and of the generator** (LORIA + KUL)
 
-  * Specification of the Knowledge Representation Language(s) [VUB,KUL,LORIA]
+  * Specification of the Knowledge Representation Language(s) [VUB + KUL + LORIA]
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator 
 
-  * Semantic Parser and Software Documentation [KUL,LORIA] 
+  * Semantic Parser and Software Documentation [KUL + LORIA] 
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -241,7 +241,7 @@ Work Package 2
 | [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2)
 | [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3)
 
-  * Natural Language Generator and Software Documentation [LORIA,KUL]
+  * Natural Language Generator and Software Documentation [LORIA + KUL]
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -261,13 +261,13 @@ Work Package 3
 ---
 **WP3 - Model to/from Knowledge Base (UNIT)**
 ***
-**T3.1 - Review of M2M transformation approaches**  (UNIT + KS)
+**T3.1 - Review of M2M transformation approaches**  (UNIT + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies.
 
-**T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KS)
+**T3.2 - Specification and design of the M2M Transformation Framework** (UNIT + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -309,7 +309,7 @@ Work Package 3
 | [M20] | D3.6.2-2 Software: Synchronization Manager component (release 2)
 | [M30] | D3.6.2-3 Software: Synchronization Manager component (release 3)
 
-**T3.7 - Design of the model-to-model transformations** (UNIT + Mantis + VUB)
+**T3.7 - Design of the model-to-model transformations** (UNIT + MANTIS + VUB)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -323,7 +323,7 @@ Work Package 3
 | [M21] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2)
 | [M31] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3)
 
-**T3.9 - Validation of the M2M Transformation Framework** (UNIT + Mantis + VUB + KS)
+**T3.9 - Validation of the M2M Transformation Framework** (UNIT + MANTIS + VUB + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -334,13 +334,13 @@ Work Package 4
 ---
 **WP4 - Knowledge Base Design and Implementation (Mantis)**
 ***
-**T4.1 - Design of the Knowledge Base** (VUB + SA + Obeo + Mantis + UNIT + KS)
+**T4.1 - Design of the Knowledge Base** (VUB + SA + OBEO + MANTIS + UNIT + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M6]  | D4.1.1 Report: Knowledge Base Design document
 
-**T4.2 - API of the Knowledge Base** (VUB + KS + Obeo + UNIT)
+**T4.2 - API of the Knowledge Base** (VUB + KS + OBEO + UNIT)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -361,13 +361,13 @@ Work Package 4
 | [M35] | D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements
 | [M35] | D4.4.2 Software: Proof-of-concept model checker
 
-**T4.5 - Knowledge Base serialization and reuse plug-in** (Mantis)
+**T4.5 - Knowledge Base serialization and reuse plug-in** (MANTIS)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M11] | D4.5.1 Report: Technical Note for KB serialization and reuse
 
-**T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** (Obeo + Mantis)
+**T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** (OBEO + MANTIS)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -382,7 +382,7 @@ Work Package 4
 |:----- |:----------- 
 | [M10] | D4.7.1 Report: Future ModelWriter-Enabled Use Cases
 
-**T4.9 - Internal bi-directional synchronization mechanism** (Obeo + UNIT)
+**T4.9 - Internal bi-directional synchronization mechanism** (OBEO + UNIT)
 
 **T4.10 – External synchronization mechanism for collaborating ModelWriters** (SA)
 
@@ -406,33 +406,33 @@ Work Package 5
 | [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1)
 | [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2)
 
-**T5.3 - Project Monitoring** (UNIT+ WP Leaders)
+**T5.3 - Project Monitoring** (UNIT + WP Leaders)
 
-**T5.4 - Communication Management and Infrastructure** (UNIT+ WP7 leader)
+**T5.4 - Communication Management and Infrastructure** (UNIT + WP7 leader)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D5.4.1 Communication Management Strategy (A4)
 
-**T5.5 - Risk Management and Infrastructure** (UNIT+ WP Leaders)
+**T5.5 - Risk Management and Infrastructure** (UNIT + WP Leaders)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D5.5.1 Risk Management Strategy (A24)
 
-**T5.6 - Configuration Management and Infrastructure** (UNIT+ WP Leaders)
+**T5.6 - Configuration Management and Infrastructure** (UNIT + WP Leaders)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D5.6.1 Configuration Management Strategy (A6)
 
-**T5.7 - Quality Management and Infrastructure** (UNIT+ WP Leaders)
+**T5.7 - Quality Management and Infrastructure** (UNIT + WP Leaders)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D5.7.1 Quality Management Strategy (A22)
 
-**T5.8 - Closing Project** (UNIT+ WP Leaders)
+**T5.8 - Closing Project** (UNIT + WP Leaders)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -441,18 +441,18 @@ Work Package 5
 
 Work Package 6
 ---
-**WP6 - ModelWriter Architecture, Integration and Evaluation (Obeo)**
+**WP6 - ModelWriter Architecture, Integration and Evaluation (OBEO)**
 ***
-**T6.1 - Experimental Prototyping** (Obeo + SA +  VUB)
+**T6.1 - Experimental Prototyping** (OBEO + SA +  VUB)
 
 | Month | Deliverable 
 |:----- |:----------- 
-| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (Obeo, SA, VUB)
-**T6.2 - Architectural Design** (Obeo + SA + VUB + Mantis + UNIT + technological WP Leaders)
+| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (OBEO, SA, VUB)
+**T6.2 - Architectural Design** (OBEO + SA + VUB + MANTIS + UNIT + technological WP Leaders)
 
 | Month | Deliverable 
 |:----- |:----------- 
-| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (Obeo, SA, VUB, Mantis)
+| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (OBEO, SA, VUB, Mantis)
 
 **T6.3 - Writer Part enhancements** (SA)
 
@@ -462,7 +462,7 @@ Work Package 6
 | [M20] | D6.3.1-2 Software: Writer enhancements (release 2) (SA)
 | [M34] | D6.3.1-3 Software: Writer enhancements (release 3) (SA)
 
-**T6.4 User Interfaces Implementation** (SA + Obeo)
+**T6.4 User Interfaces Implementation** (SA + OBEO)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -493,15 +493,15 @@ Work Package 6
 | [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all)
 | [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all)
 
-**T6.7 - ModelWriter Integration** (Obeo + UNIT + ALL)
+**T6.7 - ModelWriter Integration** (OBEO + UNIT + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
-| [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) (Obeo)
-| [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) (Obeo)
-| [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) (Obeo)
+| [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) (OBEO)
+| [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) (OBEO)
+| [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) (OBEO)
 
-**T6.8 - Cyclic Evaluation of Analysis Performance** (SA + Obeo + LORIA + UNIT + KS + ALL)
+**T6.8 - Cyclic Evaluation of Analysis Performance** (SA + OBEO + LORIA + UNIT + KS + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -513,13 +513,13 @@ Work Package 7
 ---
 **WP7 - Dissemination and Exploitation**
 ***
-**T7.1 - Dissemination Plan** (Obeo + UNIT + SA + LORIA + KS + ALL)
+**T7.1 - Dissemination Plan** (OBEO + UNIT + SA + LORIA + KS + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M4]  | D7.1.1 Dissemination Plan
 
-**T7.2 - Business Model & Exploitation Plan** (EADS Fr IW + SA + Obeo + all industrial partners)
+**T7.2 - Business Model & Exploitation Plan** (EADS + SA + OBEO + all industrial partners)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -529,7 +529,7 @@ Work Package 7
 | [M7]  | D7.2.2 Marketing Plan
 | [M34] | D7.2.3 Roadmap for future exploitation and pre-competition survey
 
-**T7.3 - Workshops & Events** (VUB + UNIT + Obeo + KS + EADS Fr IW + ALL)
+**T7.3 - Workshops & Events** (VUB + UNIT + OBEO + KS + EADS + ALL)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -541,14 +541,14 @@ Work Package 7
 |:----- |:----------- 
 | [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet
 
-**T7.5 - Community Forum & Open Source Campaign** (VUB + Obeo)
+**T7.5 - Community Forum & Open Source Campaign** (VUB + OBEO)
 
 | Month | Deliverable 
 |:----- |:----------- 
 | [M10] | D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
 | [M10] | D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling
  
-**T7.6 - Social Networks** (UNIT + KS)
+**T7.6 - Social Networks** (UNIT + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
@@ -557,7 +557,7 @@ Work Package 7
 | [M10] | D7.6.3 ModelWriter-ITEA's Twitter Group
 | [M10] | D7.6.4 ModelWriter-ITEA's Yammer Group
 
-**T7.7 - Standardization** (LORIA + UNIT + KS)
+**T7.7 - Standardization** (LORIA + UNIT + KOCSISTEM)
 
 | Month | Deliverable 
 |:----- |:----------- 
