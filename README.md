@@ -402,7 +402,7 @@ Work Package 5
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
-| [M2]  | D5.2.1 Project Controls
+| [M2]  | D5.2.1 Project Controls | UNIT
 | [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1) | UNIT
 | [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2) | UNIT
 
@@ -489,7 +489,7 @@ Work Package 6
 | [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all) | SA
 | [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all) | SA
 | [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all) | SA
-| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all | SA)
+| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all | SA
 | [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all) | SA
 | [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all) | SA
 
