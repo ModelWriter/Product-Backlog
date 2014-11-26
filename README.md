@@ -128,16 +128,21 @@ Therefore:
 Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
-* **T1.1 - Evaluation Methods & Tools** [UNIT + KS + Industrial Use Cases partners]
+
+**T1.1 - Evaluation Methods & Tools** [UNIT + KS + Industrial Use Cases partners]
 
 | Month | Deliverable |
 |:----- |:----------- |
-|[M3]| D1.1.1 Report: Evaluation Methods & Tools|
+| [M3] | D1.1.1 Report: Evaluation Methods & Tools |
 
-* **T1.2 - Industrial Use Cases for Belgian Consortium** (EADS)
-  * [M3] D1.2.1 Report: Industrial Use Cases for Belgian Consortium
-  * [M3] D1.2.2 Data: Corpus for D1.1.1 (public part)
-  * [M3] D1.2.3 Data: Corpus for D1.1.1 (confidential part)
+**T1.2 - Industrial Use Cases for Belgian Consortium** (EADS)
+
+| Month | Deliverable |
+|:----- |:----------- |
+| [M3] | D1.2.1 Report: Industrial Use Cases for Belgian Consortium |
+| [M3] | D1.2.2 Data: Corpus for D1.1.1 (public part) |
+| [M3] | D1.2.3 Data: Corpus for D1.1.1 (confidential part) |
+
 * **T1.3 - Industrial Use Cases for French Consortium** (Obeo + EADS)
   * [M3] D1.3.1 Report: Industrial Use Cases for French Consortium
   * [M3] D1.3.2 Data: Corpus for D1.2.1 (public part)
