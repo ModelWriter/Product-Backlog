@@ -128,7 +128,7 @@ Therefore:
 Work Package 1
 ---
 **WP1 - Industrial Use Cases and Requirements (EADS)**
-
+***
 **T1.1 - Evaluation Methods & Tools** [UNIT + KS + Industrial Use Cases partners]
 
 | Month | Deliverable |
