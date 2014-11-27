@@ -106,7 +106,7 @@ Belgium | KUL | Monique Snoeck | Marie-Francine Moens
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
 |Taskin Kızıl |taskin@hisbim.com |@ |
-|Ersan Gürdoğan |ersan@hisbim.com |@ |
+|Ersan Gürdoğan |ersan@hisbim.com |@ersangurdogan |
 
 [KUL](https://github.com/orgs/ModelWriter/teams/kul)
 ----
