@@ -95,7 +95,7 @@ Belgium | KUL | Monique Snoeck | Marie-Francine Moens
 
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
-|Mehmet Önat |mehmet.onat@kocsistem.com.tr |@ |
+|Mehmet Önat |mehmet.onat@kocsistem.com.tr |@MehmetOnat |
 |Hale Gezgen |hale.gezgen@kocsistem.com.tr |@ |
 |Prof. Geylani Kardaş |geylani.kardas@ege.edu.tr |@ |
 
