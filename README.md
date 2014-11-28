@@ -8,6 +8,10 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
+[Project Teams](https://github.com/orgs/ModelWriter/teams)
+=============
+consortium@modelwriter.eu
+
 [Project Coordination Committee (PCC)](https://github.com/orgs/ModelWriter/teams/pcc)
 ----
 pcc@modelwriter.eu
@@ -39,7 +43,6 @@ tcc@modelwriter.eu
 
 Country Coordinators
 ----
-consortium@modelwriter.eu
 
 Country | Partner | Primary Contact | Secondary Contact | Group Email
 :----   |:-----   |:---------       |:----- |:-----
