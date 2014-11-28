@@ -8,8 +8,10 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
+
 [Project Coordination Committee (PCC)](https://github.com/orgs/ModelWriter/teams/pcc)
 ----
+pcc@modelwriter.eu
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
 |:-------------------------------------|:---------------------- |:---------------------- |
 | [UNIT](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#unit) |Ferhat Erata |Moharram Challenger | 
@@ -23,6 +25,8 @@ For details on the scrum of scrum process see [`wiki page`](https://github.com/m
 
 [Technical Coordination Committee (TCC)](https://github.com/orgs/ModelWriter/teams/tcc)
 ----
+tcc@modelwriter.eu
+
 | Work Package | Primary Contact        | Secondary Contact      | 
 |:------------	|:---------------------- |:---------------------- |
 | [WP1](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-1) (EADS) | Anne Monceaux | ? | 
@@ -35,11 +39,11 @@ For details on the scrum of scrum process see [`wiki page`](https://github.com/m
 
 Country Coordinators
 ----
-Country | Partner | Primary Contact | Secondary Contact
-:----   |:-----   |:---------       |:-----
-France | OBEO | Etienne Juliot | Marwa Rostren 
-Turkey | MANTIS | Güven Köse | Erhan Mengüsoğlu
-Belgium | KUL | Monique Snoeck | Marie-Francine Moens
+Country | Partner | Primary Contact | Secondary Contact | Group Email
+:----   |:-----   |:---------       |:----- |:-----
+France | OBEO | Etienne Juliot | Marwa Rostren | france@modelwriter.eu
+Turkey | MANTIS | Güven Köse | Erhan Mengüsoğlu | turkey@modelwriter.eu
+Belgium | KUL | Monique Snoeck | Marie-Francine Moens | belgium@modelwriter.eu
 
 [UNIT](https://github.com/orgs/ModelWriter/teams/unit)
 ----
