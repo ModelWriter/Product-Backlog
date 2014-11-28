@@ -8,10 +8,10 @@ The product backlog itself is implemented in the [`issue tracker`](https://githu
 
 For details on the scrum of scrum process see [`wiki page`](https://github.com/modelwriter/product-backlog/wiki/Scrum-of-scrum-process).
 
-
 [Project Coordination Committee (PCC)](https://github.com/orgs/ModelWriter/teams/pcc)
 ----
 pcc@modelwriter.eu
+
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
 |:-------------------------------------|:---------------------- |:---------------------- |
 | [UNIT](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#unit) |Ferhat Erata |Moharram Challenger | 
