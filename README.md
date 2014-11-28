@@ -39,6 +39,8 @@ tcc@modelwriter.eu
 
 Country Coordinators
 ----
+consortium@modelwriter.eu
+
 Country | Partner | Primary Contact | Secondary Contact | Group Email
 :----   |:-----   |:---------       |:----- |:-----
 France | OBEO | Etienne Juliot | Marwa Rostren | france@modelwriter.eu
