@@ -407,7 +407,9 @@ Work Package 5
 ---
 **WP5 - Project Management (UNIT)**
 ***
-**T5.1 - Project and Stage Plans** `(UNIT + WP Leaders)`
+**T5.1 – European and National Coordination and Reporting** `(SA + Country Coordinators + WP Leaders)`
+
+**T5.2 - Project and Stage Plans** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
@@ -415,7 +417,7 @@ Work Package 5
 | [M25] | D5.1.1-2 Management reports and cost statements (confidential) (release 2) | UNIT
 | [M37] | D5.1.1-3 Management reports and cost statements (confidential) (release 3) | UNIT
 
-**T5.2 - Project Controls** `(UNIT + WP Leaders)`
+**T5.3 - Project Controls** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
@@ -423,33 +425,33 @@ Work Package 5
 | [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1) | UNIT
 | [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2) | UNIT
 
-**T5.3 - Project Monitoring** `(UNIT + WP Leaders)`
+**T5.4 - Project Monitoring** `(UNIT + WP Leaders)`
 
-**T5.4 - Communication Management and Infrastructure** `(UNIT + WP7 leader)`
+**T5.5 - Communication Management and Infrastructure** `(UNIT + WP7 leader)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:-------
 | [M4]  | D5.4.1 Communication Management Strategy (A4) | UNIT
 
-**T5.5 - Risk Management and Infrastructure** `(UNIT + WP Leaders)`
+**T5.6 - Risk Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
 | [M4]  | D5.5.1 Risk Management Strategy (A24) | UNIT
 
-**T5.6 - Configuration Management and Infrastructure** `(UNIT + WP Leaders)`
+**T5.7 - Configuration Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
 | [M4]  | D5.6.1 Configuration Management Strategy (A6) | UNIT
 
-**T5.7 - Quality Management and Infrastructure** `(UNIT + WP Leaders)`
+**T5.8 - Quality Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
 | [M4]  | D5.7.1 Quality Management Strategy (A22) | UNIT
 
-**T5.8 - Closing Project** `(UNIT + WP Leaders)`
+**T5.9 - Closing Project** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Leader
 |:----- |:----------- |:------- 
