@@ -427,17 +427,17 @@ Work Package 5
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M13] | D5.1.1-1 Management reports and cost statements (confidential) (release 1) | UNIT
-| [M25] | D5.1.1-2 Management reports and cost statements (confidential) (release 2) | UNIT
-| [M37] | D5.1.1-3 Management reports and cost statements (confidential) (release 3) | UNIT
+| [M13] | D5.1.1-1 Management reports and cost statements (confidential) (release 1) | Doc. | UNIT
+| [M25] | D5.1.1-2 Management reports and cost statements (confidential) (release 2) | Doc. | UNIT
+| [M37] | D5.1.1-3 Management reports and cost statements (confidential) (release 3) | Doc. | UNIT
 
 **T5.3 - Project Controls** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M2]  | D5.2.1 Project Controls | UNIT
-| [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1) | UNIT
-| [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2) | UNIT
+| [M2]  | D5.2.1 Project Controls | Doc. | UNIT
+| [M12] | D5.2.1-1 Project and Next Management Stage Plan (release 1) | Doc. | UNIT
+| [M24] | D5.2.1-2 Project and Next Management Stage Plan (release 2) | Doc. | UNIT
 
 **T5.4 - Project Monitoring** `(UNIT + WP Leaders)`
 
@@ -445,32 +445,32 @@ Work Package 5
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D5.4.1 Communication Management Strategy (A4) | UNIT
+| [M4]  | D5.4.1 Communication Management Strategy (A4) | Doc. | UNIT
 
 **T5.6 - Risk Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D5.5.1 Risk Management Strategy (A24) | UNIT
+| [M4]  | D5.5.1 Risk Management Strategy (A24) | Doc. | UNIT
 
 **T5.7 - Configuration Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D5.6.1 Configuration Management Strategy (A6) | UNIT
+| [M4]  | D5.6.1 Configuration Management Strategy (A6) | Doc. | UNIT
 
 **T5.8 - Quality Management and Infrastructure** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D5.7.1 Quality Management Strategy (A22) | UNIT
+| [M4]  | D5.7.1 Quality Management Strategy (A22) | Doc. | UNIT
 
 **T5.9 - Closing Project** `(UNIT + WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [37]  | D5.8.1 Final project report (Public Deliverable) | UNIT
-| [37]  | D5.8.2 Updated State-of-the-art (Public Deliverable) | UNIT
+| [37]  | D5.8.1 Final project report (Public Deliverable) | Doc. | UNIT
+| [37]  | D5.8.2 Updated State-of-the-art (Public Deliverable) | Doc. | UNIT
 
 Work Package 6
 ---
@@ -480,21 +480,21 @@ Work Package 6
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (OBEO, SA, VUB) | OBEO
+| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (OBEO, SA, VUB) | SW | OBEO
 
 **T6.2 - Architectural Design** `(OBEO + SA + VUB + MANTIS + UNIT + technological WP Leaders)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (OBEO, SA, VUB, Mantis) | OBEO
+| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (OBEO, SA, VUB, Mantis) | Doc. | OBEO
 
 **T6.3 - Writer Part enhancements** `(SA)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D6.3.1-1 Software: Writer enhancements (release 1) | SA
-| [M20] | D6.3.1-2 Software: Writer enhancements (release 2) | SA
-| [M34] | D6.3.1-3 Software: Writer enhancements (release 3) | SA
+| [M10] | D6.3.1-1 Software: Writer enhancements (release 1) | SW | SA
+| [M20] | D6.3.1-2 Software: Writer enhancements (release 2) | SW | SA
+| [M34] | D6.3.1-3 Software: Writer enhancements (release 3) | SW | SA
 
 **T6.4 User Interfaces Implementation** `(SA + OBEO)`
 
@@ -502,53 +502,53 @@ Work Package 6
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part | SA
-| [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1) | SA
-| [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2) | SA
-| [M34] | D6.4.2-3 Software: User Interface for the Writer part (release 3) | SA
+| [M7]  | D6.4.1 Report: Ergonomics Guidelines document for the Writer Part | Doc. | SA
+| [M10] | D6.4.2-1 Software: User Interface for the Writer part (release 1) | SW | SA
+| [M20] | D6.4.2-2 Software: User Interface for the Writer part (release 2) | SW | SA
+| [M34] | D6.4.2-3 Software: User Interface for the Writer part (release 3) | SW | SA
 
 * Software: IDE-integrated User Interface to handle Synchronization  `(Obeo)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------|:-------
-| [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) | OBEO
-| [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) | OBEO
-| [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) | OBEO
+| [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 1) | SW | OBEO
+| [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 2) | SW | OBEO
+| [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Synchronization issues major release (release 3) | SW | OBEO
 
 **T6.5 - Acceptance Test Plan** `(SA + UNIT + KS + ALL)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all) | SA
-| [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all) | SA
-| [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all) | SA
-| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all | SA
-| [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all) | SA
-| [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all) | SA
+| [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all) | Doc. | SA
+| [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all) | Doc. | SA
+| [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all) | Doc. | SA
+| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all | SW | SA
+| [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all) | SW | SA
+| [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all) | SW | SA
 
 **T6.6 - Acceptance Test Procedures** `(SA + UNIT + KS + ALL)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all) | SA
-| [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all) | SA
-| [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all) | SA
+| [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all) | Doc. | SA
+| [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all) | Doc. | SA
+| [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all) | Doc. | SA
 
 **T6.7 - ModelWriter Integration** `(OBEO + UNIT + ALL)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) | OBEO
-| [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) | OBEO
-| [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) | OBEO
+| [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) | SW | OBEO
+| [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) | SW | OBEO
+| [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) | SW | OBEO
 
 **T6.8 - Cyclic Evaluation of Analysis Performance** `(SA + OBEO + LORIA + UNIT + KS + ALL)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M12] | D6.8.1-1 Report: Evaluation report (release 1) (All) | SA
-| [M24] | D6.8.1-2 Report: Evaluation report (release 2) (All) | SA
-| [M36] | D6.8.1-3 Report: Evaluation report (release 3) (All) | SA
+| [M12] | D6.8.1-1 Report: Evaluation report (release 1) (All) | Doc. | SA
+| [M24] | D6.8.1-2 Report: Evaluation report (release 2) (All) | Doc. | SA
+| [M36] | D6.8.1-3 Report: Evaluation report (release 3) (All) | Doc. | SA
 
 Work Package 7
 ---
@@ -558,48 +558,48 @@ Work Package 7
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D7.1.1 Dissemination Plan | OBEO
+| [M4]  | D7.1.1 Dissemination Plan | Doc. | OBEO
 
 **T7.2 - Business Model & Exploitation Plan** `(EADS + SA + OBEO + all industrial partners)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------|:-------
-| [M7]  | D7.2.1-1 Exploitation Plan (release 1) | EADS
-| [M22] | D7.2.1-2 Exploitation Plan (release 2) | EADS
-| [M34] | D7.2.1-3 Exploitation Plan (release 3) | EADS
-| [M7]  | D7.2.2 Marketing Plan
-| [M34] | D7.2.3 Roadmap for future exploitation and pre-competition survey
+| [M7]  | D7.2.1-1 Exploitation Plan (release 1) | Doc. | EADS
+| [M22] | D7.2.1-2 Exploitation Plan (release 2) | Doc. | EADS
+| [M34] | D7.2.1-3 Exploitation Plan (release 3) | Doc. | EADS
+| [M7]  | D7.2.2 Marketing Plan| Doc. | EADS
+| [M34] | D7.2.3 Roadmap for future exploitation and pre-competition survey| Doc. | EADS 
 
 **T7.3 - Workshops & Events** `(VUB + UNIT + OBEO + KS + EADS + ALL)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:------- 
-| [31]  | D7.3.1 Newsletter - International Conference Announcement | VUB
+| [31]  | D7.3.1 Newsletter - International Conference Announcement | Doc. | VUB
 
 **T7.4 - ModelWriter-ITEA Consortium Website** `(SA)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet | SA
+| [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet | SW | SA
 
 **T7.5 - Community Forum & Open Source Campaign** `(VUB + OBEO)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling | VUB
-| [M10] | D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling | VUB
+| [M10] | D7.5.1 Technical-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling | Doc. | VUB
+| [M10] | D7.5.2 Research-oriented talk about the principles and benefits of the ModelWriter-ITEA approach and tooling| Doc.  | VUB
  
 **T7.6 - Social Networks** `(UNIT + KOCSISTEM)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D7.6.1 ModelWriter-ITEA's Facebook Group | UNIT
-| [M10] | D7.6.2 ModelWriter-ITEA's LinkedIn Group | UNIT
-| [M10] | D7.6.3 ModelWriter-ITEA's Twitter Group | UNIT
-| [M10] | D7.6.4 ModelWriter-ITEA's Yammer Group | UNIT
+| [M10] | D7.6.1 ModelWriter-ITEA's Facebook Group | SW | UNIT
+| [M10] | D7.6.2 ModelWriter-ITEA's LinkedIn Group | SW | UNIT
+| [M10] | D7.6.3 ModelWriter-ITEA's Twitter Group | SW | UNIT
+| [M10] | D7.6.4 ModelWriter-ITEA's Yammer Group | SW | UNIT
 
 **T7.7 - Standardization** `(LORIA + UNIT + KOCSISTEM)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M34] | D7.7.1 ModelWriter and standardization activities | LORIA
+| [M34] | D7.7.1 ModelWriter and standardization activities | SW | LORIA
