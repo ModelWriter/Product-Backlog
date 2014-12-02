@@ -296,70 +296,70 @@ Work Package 3
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies | UNIT
+| [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies | Doc. | UNIT
 
 **T3.2 - Specification and design of the M2M Transformation Framework** `(UNIT + KOCSISTEM)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M4]  | D3.2.1 M2M Transformation Framework architectural design documen | UNIT
+| [M4]  | D3.2.1 M2M Transformation Framework architectural design document | Doc. | UNIT
 
 **T3.3 - Development of the Transformation Manager component** `(UNIT)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M5]  | D3.3.1 Transformation Manager architectural (TRAM) design document | UNIT
-| [M8]  | D3.3.2-1 Software: Transformation Manager component (release 1) | UNIT
-| [M20] | D3.3.2-2 Software: Transformation Manager component (release 2) | UNIT
-| [M30] | D3.3.2-3 Software: Transformation Manager component (release 3) | UNIT
+| [M5]  | D3.3.1 Transformation Manager architectural (TRAM) design document | Doc. | UNIT
+| [M8]  | D3.3.2-1 Software: Transformation Manager component (release 1) | SW | UNIT
+| [M20] | D3.3.2-2 Software: Transformation Manager component (release 2) | SW | UNIT
+| [M30] | D3.3.2-3 Software: Transformation Manager component (release 3) | SW | UNIT
 
 **T3.4 - Development of the Configuration Manager (COM) component** `(UNIT)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M6]  | D3.4.1 Configuration Manager architectural design document | UNIT
-| [M8]  | D3.4.2-1 Software: Configuration Manager component (release 1) | UNIT
-| [M20] | D3.4.2-2 Software: Configuration Manager component (release 2) | UNIT
-| [M30] | D3.4.2-3 Software: Configuration Manager component (release 3) | UNIT
+| [M6]  | D3.4.1 Configuration Manager architectural design document | Doc. | UNIT
+| [M8]  | D3.4.2-1 Software: Configuration Manager component (release 1) | SW | UNIT
+| [M20] | D3.4.2-2 Software: Configuration Manager component (release 2) | SW | UNIT
+| [M30] | D3.4.2-3 Software: Configuration Manager component (release 3) | SW | UNIT
 
 **T3.5 - Development of the Traceability Manager component** `(UNIT)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M7]  | D3.5.1 Traceability Manager architectural design document | UNIT
-| [M8]  | D3.5.2-1 Software: Traceability Manager component (release 1) | UNIT
-| [M20] | D3.5.2-2 Software: Traceability Manager component (release 2) | UNIT
-| [M30] | D3.5.2-3 Software: Traceability Manager component (release 3) | UNIT
+| [M7]  | D3.5.1 Traceability Manager architectural design document | Doc. | UNIT
+| [M8]  | D3.5.2-1 Software: Traceability Manager component (release 1) | SW | UNIT
+| [M20] | D3.5.2-2 Software: Traceability Manager component (release 2) | SW | UNIT
+| [M30] | D3.5.2-3 Software: Traceability Manager component (release 3) | SW | UNIT
 
 **T3.6 - Development of the Synchronization Manager component** `(UNIT)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M8]  | D3.6.1 Synchronization Manager architectural design document | UNIT
-| [M8]  | D3.6.2-1 Software: Synchronization Manager component (release 1) | UNIT
-| [M20] | D3.6.2-2 Software: Synchronization Manager component (release 2) | UNIT
-| [M30] | D3.6.2-3 Software: Synchronization Manager component (release 3) | UNIT
+| [M8]  | D3.6.1 Synchronization Manager architectural design document | Doc. | UNIT
+| [M8]  | D3.6.2-1 Software: Synchronization Manager component (release 1) | SW | UNIT
+| [M20] | D3.6.2-2 Software: Synchronization Manager component (release 2) | SW | UNIT
+| [M30] | D3.6.2-3 Software: Synchronization Manager component (release 3) | SW | UNIT
 
 **T3.7 - Design of the model-to-model transformations** `(UNIT + MANTIS + VUB)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M18] | D3.7.1 Model-to-model transformations (from user-visible models to KB-stored models) design document | UNIT
+| [M18] | D3.7.1 Model-to-model transformations (from user-visible models to KB-stored models) design document | SW | UNIT
 
 **T3.8 - Implementation of the model-to-model transformations** `(UNIT + VUB)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M11] | D3.8.1-1 Software: Source and binary code of each model-to-model transformation (release 1) | UNIT
-| [M21] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2) | UNIT
-| [M31] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3) | UNIT
+| [M11] | D3.8.1-1 Software: Source and binary code of each model-to-model transformation (release 1) | SW | UNIT
+| [M21] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 2) | SW | UNIT
+| [M31] | D3.8.1-3 Software: Source and binary code of each model-to-model transformation (release 3) | SW | UNIT
 
 **T3.9 - Validation of the M2M Transformation Framework** `(UNIT + MANTIS + VUB + KOCSISTEM)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M32] | D3.9.1 Test-plan for the M2M Transformation Framework | UNIT
-| [M33] | D3.9.2 Field experiment concerning ModelWriter model transformations | UNIT
+| [M32] | D3.9.1 Test-plan for the M2M Transformation Framework | Doc. | UNIT
+| [M33] | D3.9.2 Field experiment concerning ModelWriter model transformations | SW | UNIT
 
 Work Package 4
 ---
@@ -369,49 +369,49 @@ Work Package 4
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M6]  | D4.1.1 Report: Knowledge Base Design document | VUB
+| [M6]  | D4.1.1 Report: Knowledge Base Design document | Doc. | VUB
 
 **T4.2 - API of the Knowledge Base** `(VUB + KS + OBEO + UNIT)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M6]  | D4.2.1 Report: Interface Control Document (ICD) | VUB
+| [M6]  | D4.2.1 Report: Interface Control Document (ICD) |Doc. | VUB
 
 **T4.3 - Implementation of the Knowledge Base** `(VUB)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [11]  | D4.3.1-1 Software: Knowledge Base (release 1) | VUB
-| [19]  | D4.3.1-2 Software: Knowledge Base (release 2) | VUB
-| [31]  | D4.3.1-3 Software: Knowledge Base (release 3) | VUB
+| [11]  | D4.3.1-1 Software: Knowledge Base (release 1) | SW | VUB
+| [19]  | D4.3.1-2 Software: Knowledge Base (release 2) | SW | VUB
+| [31]  | D4.3.1-3 Software: Knowledge Base (release 3) | SW | VUB
 
 **T4.4 - Plug-in #1: ModelWriter-assisted requirements review** `(VUB + SA)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M35] | D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements | VUB
-| [M35] | D4.4.2 Software: Proof-of-concept model checker | VUB
+| [M35] | D4.4.1 Report: Technical Note for ModelWriter-assisted Quality Review of Requirements | Doc. | VUB
+| [M35] | D4.4.2 Software: Proof-of-concept model checker | SW | VUB
 
 **T4.5 - Knowledge Base serialization and reuse plug-in** `(MANTIS)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M11] | D4.5.1 Report: Technical Note for KB serialization and reuse | MANTIS
+| [M11] | D4.5.1 Report: Technical Note for KB serialization and reuse | Doc. | MANTIS
 
 **T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents** `(OBEO + MANTIS)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M20] | D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents | OBEO
-| [M11] | D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1) | OBEO
-| [M19] | D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2) | OBEO
-| [M31] | D4.6.2-3 Software: Proof-of-concept semantic comparison engine (release 3) | OBEO
+| [M20] | D4.6.1 Report: Technical Note for ModelWriter-assisted Comparison of 2 Documents | Doc. | OBEO
+| [M11] | D4.6.2-1 Software: Proof-of-concept semantic comparison engine (release 1) | SW | OBEO
+| [M19] | D4.6.2-2 Software: Proof-of-concept semantic comparison engine (release 2) | SW | OBEO
+| [M31] | D4.6.2-3 Software: Proof-of-concept semantic comparison engine (release 3) | SW | OBEO
 
 **T4.7 - Plug-in #2: ModelWriter-assisted compliance review** `(SA)`
 
 | Month | Deliverable | Type    | Leader
 |:----- |:----------- |:------- |:-------
-| [M10] | D4.7.1 Report: Future ModelWriter-Enabled Use Cases | SA
+| [M10] | D4.7.1 Report: Future ModelWriter-Enabled Use Cases | Doc. | SA
 
 **T4.9 - Internal bi-directional synchronization mechanism** `(OBEO + UNIT)`
 
