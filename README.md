@@ -19,13 +19,13 @@ pcc@modelwriter.eu
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
 |:-------------------------------------|:---------------------- |:---------------------- |
 | [UNIT](README.md#unit) |Ferhat Erata |Moharram Challenger | 
-| [OBEO](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#obeo) |Etienne Juliot |Marwa Rostren |
-| [MANTIS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |
-| [EADS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#eads) |Anne Monceaux |? |
-| [LORIA](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#loria) |Claire Gardent |Samuel Cruz-Lara |
-| [KOCSISTEM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kocsistem) |Mehmet Önat |Hale Gezgen |
-| [HISBIM](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#hisbim) |Ersan Gürdoğan |Taskin Kızıl |
-| [KUL](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#kul) |Monique Snoeck |Marie-Francine Moens |
+| [OBEO](README.md#obeo) |Etienne Juliot |Marwa Rostren |
+| [MANTIS](README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |
+| [EADS](README.md#eads) |Anne Monceaux |? |
+| [LORIA](README.md#loria) |Claire Gardent |Samuel Cruz-Lara |
+| [KOCSISTEM](README.md#kocsistem) |Mehmet Önat |Hale Gezgen |
+| [HISBIM](README.md#hisbim) |Ersan Gürdoğan |Taskin Kızıl |
+| [KUL](README.md#kul) |Monique Snoeck |Marie-Francine Moens |
 
 [Technical Coordination Committee (TCC)](https://github.com/orgs/ModelWriter/teams/tcc)
 ----
@@ -33,13 +33,13 @@ tcc@modelwriter.eu
 
 | Work Package | Primary Contact        | Secondary Contact      | 
 |:------------	|:---------------------- |:---------------------- |
-| [WP1](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-1) (EADS) | Anne Monceaux | ? | 
-| [WP2](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-2) (LORIA)| Claire Gardent | Samuel Cruz-Lara |                               	
-| [WP3](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-3) (UNIT) | Ferhat Erata | Moharram Challenger |                	
-| [WP4](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-4) (MANTIS) | Erhan Mengüsoğlu | Güven Köse |
-| [WP5](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-5) (UNIT) | Ferhat Erata | Moharram Challenger |
-| [WP6](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
-| [WP7](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
+| [WP1](README.md#work-package-1) (EADS) | Anne Monceaux | ? | 
+| [WP2](README.md#work-package-2) (LORIA)| Claire Gardent | Samuel Cruz-Lara |                               	
+| [WP3](README.md#work-package-3) (UNIT) | Ferhat Erata | Moharram Challenger |                	
+| [WP4](README.md#work-package-4) (MANTIS) | Erhan Mengüsoğlu | Güven Köse |
+| [WP5](README.md#work-package-5) (UNIT) | Ferhat Erata | Moharram Challenger |
+| [WP6](README.md#work-package-6) (OBEO)	| Etienne Juliot | Marwa Rostren |
+| [WP7](README.md#work-package-7) (OBEO)	| Etienne Juliot | Marwa Rostren |
 
 Country Coordinators
 ----
