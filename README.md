@@ -74,7 +74,7 @@ Belgium | KUL | Monique Snoeck | Marie-Francine Moens | belgium@modelwriter.eu
 
 [LORIA](https://github.com/orgs/ModelWriter/teams/loria)
 ----
-**LORIA (UMR 7503)**
+**Lorraine Laboratory of Research in Computer Science and its Applications**
 
 |Contact |Corporate Email |GitHub |
 |:--- |:--- |:---|
