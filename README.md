@@ -234,59 +234,59 @@ Work Package 2
 ***
 **T2.1 - Data Collection** `(LORIA + KUL)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases | Doc. | LORIA
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D2.1.1 Report: Software Requirements - Evaluation of the natural language processing requirements set by the use cases | Doc. | Public | LORIA
 
 **T2.2 - Hybrid approaches to semantic parsing** `(KUL + LORIA)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M4]  | D2.2.1 Report: Overview and comparison of existing deep semantic parsers | Doc. | KUL
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M4]  | D2.2.1 Report: Overview and comparison of existing deep semantic parsers | Doc. | Public | KUL
 
 **T2.3 - Hybrid approaches to Natural Language Generation** `(LORIA + KUL)` 
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M5]  | D2.3.1 Report: Overview and comparison of existing generators | Doc. | LORIA
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M5]  | D2.3.1 Report: Overview and comparison of existing generators | Doc. | Public | LORIA
 
 **T2.4 - Definition of the target semantic representation language** `(LORIA + KUL + EADS)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora | SW | LORIA
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M6]  | D2.4.1 Data: Corpora (Text, Knowledge, Bi-Texts) and Report: Documentation of the corpora | SW | Public | LORIA
 
 **T2.5 - Development of the semantic parser and of the generator** `(LORIA + KUL + MANTIS + VUB + EADS)`
 
   * Specification of the Knowledge Representation Language(s) `[VUB + KUL + LORIA]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator | Doc. | VUB
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M8]  | D2.5.1	Report: Specification of the Knowledge Representation Language(s) output by the parser and input to the generator | Doc. | Public | VUB
 
   * Semantic Parser and Software Documentation `[KUL + LORIA]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M8]  | D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1) | SW | KUL
-| [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2) | SW | KUL
-| [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3) | SW | KUL
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M8]  | D2.5.2-1 Software: Semantic Parser and Report: Software Documentation (release 1) | SW | Public | KUL
+| [M20] | D2.5.2-2 Software: Semantic Parser and Report: Software Documentation (release 2) | SW | Public | KUL
+| [M28] | D2.5.2-3 Software: Semantic Parser and Report: Software Documentation (release 3) | SW | Public | KUL
 
   * Natural Language Generator and Software Documentation `[LORIA + KUL]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M8]  | D2.5.3-1 Software: Natural Language Generator and Report: Software Documentation (release 1) | SW | LORIA
-| [M20] | D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2) | SW | LORIA
-| [M28] | D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3) | SW | LORIA
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M8]  | D2.5.3-1 Software: Natural Language Generator and Report: Software Documentation (release 1) | SW | Public | LORIA
+| [M20] | D2.5.3-2 Software: Natural Language Generator and Report: Software Documentation (release 2) | SW | Public | LORIA
+| [M28] | D2.5.3-3 Software: Natural Language Generator and Report: Software Documentation (release 3) | SW | Public | LORIA
 
   * Integration in ModelWriter and Software Documentation `[SA]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M10] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 1) | SW | SA
-| [M22] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2) | SW | SA
-| [M30] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3) | SW | SA
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M10] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 1) | SW | Public | SA
+| [M22] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation (release 2) | SW | Public | SA
+| [M30] | D2.5.4-1 Software: Integration in ModelWriter and Report: Software Documentation  (release 3) | SW | Public | SA
 
 Work Package 3
 ---
