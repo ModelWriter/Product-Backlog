@@ -18,7 +18,7 @@ pcc@modelwriter.eu
 
 | Partner    	                       | Primary Contact        | Secondary Contact      | 
 |:-------------------------------------|:---------------------- |:---------------------- |
-| [UNIT](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#unit) |Ferhat Erata |Moharram Challenger | 
+| [UNIT](README.md#unit) |Ferhat Erata |Moharram Challenger | 
 | [OBEO](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#obeo) |Etienne Juliot |Marwa Rostren |
 | [MANTIS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#mantis) |Erhan Mengüsoğlu |Güven Köse |
 | [EADS](https://github.com/ModelWriter/Product-Backlog/blob/master/README.md#eads) |Anne Monceaux |? |
