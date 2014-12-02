@@ -162,71 +162,71 @@ Work Package 1
 ***
 **T1.1 - Evaluation Methods & Tools** `[UNIT + KOCSISTEM + EADS + SA + OBEO + HISBIM + MANTIS]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.1.1 Report: Evaluation Methods & Tools | Doc. | UNIT
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.1.1 Report: Evaluation Methods & Tools | Doc. | Public | UNIT
 
 **T1.2 - Industrial Use Cases for Belgian Consortium** `[SA]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium | Doc. | EADS
-| [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) | SW | EADS
-| [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) | SW | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium | Doc. | Public | EADS
+| [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) | SW | Public | EADS
+| [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) | SW | Confidential | EADS
 
 **T1.3 - Industrial Use Cases for French Consortium** `[OBEO + EADS]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium | Doc. | OBEO
-| [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part) | SW | OBEO
-| [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part) | SW | OBEO
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium | Doc. | Public | OBEO
+| [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part) | SW | Public | OBEO
+| [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part) | SW | Confidential | OBEO
 
 **T1.4 - Industrial Use Cases for Turkish Consortium** `[MANTIS + UNIT + KOCSISTEM + HISBIM]`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium | Doc. | MANTIS
-| [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part) | SW | MANTIS
-| [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)| SW | MANTIS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium | Doc. | Public | MANTIS
+| [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part) | SW | Public | MANTIS
+| [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)| SW | Confidential | MANTIS
 
 **T1.5 - Consolidated User Requirements** `(EADS + OBEO + MANTIS + SA)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter | Doc. | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter | Doc. | Public | EADS
 
 **T1.6 - User Requirements Review** `(EADS + UNIT+ KOCSISTEM + KUL + ALL)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting | Doc. | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting | Doc. | Public | EADS
 
 **T1.7 - Software Requirements** `(EADS + WP2 to WP7 leaders)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter | Doc. | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter | Doc. | Public | EADS
 
 **T1.8 - Software Requirements Review** `(EADS + UNIT + KOCSISTEM + KUL + ALL)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting | Doc. | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M5]  | D1.8.1 Report: Minutes of the Software Requirements Review meeting | Doc. | Public | EADS
 
 **T1.9 - Annual Product Review** `(EADS + Country Coordinators)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M13] | D1.9.1-1 Report: Annual Product Owner Review | Doc. | EADS
-| [M25] | D1.9.1-2 Report: Annual Product Owner Review | Doc. | EADS
-| [M37] | D1.9.1-3 Report: Annual Product Owner Review | Doc. | EADS
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M13] | D1.9.1-1 Report: Annual Product Owner Review | Doc. | Public | EADS
+| [M25] | D1.9.1-2 Report: Annual Product Owner Review | Doc. | Public | EADS
+| [M37] | D1.9.1-3 Report: Annual Product Owner Review | Doc. | Public | EADS
 
 **T1.10 - Technical Risk Assessment and Management** `(OBEO + UNIT + KOCSISTEM + ALL)`
 
-| Month | Deliverable | Type    | Leader
-|:----- |:----------- |:------- |:-------
-| [M5]  | D1.10.1 Technical Risk Assessment Document | Doc. | OBEO
+| Month | Deliverable | Type    | Access  | Leader
+|:----- |:----------- |:------- |:------- |:-------
+| [M5]  | D1.10.1 Technical Risk Assessment Document | Doc. | Public | OBEO
 
 Work Package 2
 ---
