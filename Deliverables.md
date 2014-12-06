@@ -2,14 +2,14 @@
 |:----- |:----------- |:------- |:------- |:-------
 | [M3]  | D1.1.1 Report: Evaluation Methods & Tools | Doc. | Public | UNIT
 | [M3]  | D1.2.1 Report: Industrial Use Cases for Belgian Consortium | Doc. | Public | EADS
-| [M3]  | D1.2.2 Data: Corpus for D1.1.1 (public part) | SW | Public | EADS
-| [M3]  | D1.2.3 Data: Corpus for D1.1.1 (confidential part) | SW | Confidential | EADS
+| [M3]  | D1.2.2 Data: Corpus for Belgian Use Cases (public part) | SW | Public | EADS
+| [M3]  | D1.2.3 Data: Corpus for Belgian Use Cases (confidential part) | SW | Confidential | EADS
 | [M3]  | D1.3.1 Report: Industrial Use Cases for French Consortium | Doc. | Public | OBEO
-| [M3]  | D1.3.2 Data: Corpus for D1.2.1 (public part) | SW | Public | OBEO
-| [M3]  | D1.3.3 Data: Corpus for D1.2.1 (confidential part) | SW | Confidential | OBEO
+| [M3]  | D1.3.2 Data: Corpus for French Use Cases (public part) | SW | Public | OBEO
+| [M3]  | D1.3.3 Data: Corpus for French Use Cases (confidential part) | SW | Confidential | OBEO
 | [M3]  | D1.4.1 Report: Industrial Use Cases for Turkish Consortium | Doc. | Public | MANTIS
-| [M3]  | D1.4.2 Data: Corpus for D1.4.1 (public part) | SW | Public | MANTIS
-| [M3]  | D1.4.3 Data: Corpus for D1.4.1 (confidential part)| SW | Confidential | MANTIS
+| [M3]  | D1.4.2 Data: Corpus for Turkish Use Cases (public part) | SW | Public | MANTIS
+| [M3]  | D1.4.3 Data: Corpus for Turkish Use Cases (confidential part)| SW | Confidential | MANTIS
 | [M3]  | D1.5.1 Report: User Requirements Document (URD) for ModelWriter | Doc. | Public | EADS
 | [M3]  | D1.6.1 Report: Minutes of the User Requirements Review meeting | Doc. | Public | EADS
 | [M5]  | D1.7.1 Report: Software Requirements Document (SRD) for ModelWriter | Doc. | Public | EADS
