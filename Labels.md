@@ -13,8 +13,10 @@ OBEO | bfdadc
 MANTIS | bfdadc  
 KOCSISTEM | bfdadc  
 HISBIM | bfdadc  
-LORAI | bfdadc  
+LORIA | bfdadc  
 KUL | bfdadc  
+VUB | bfdadc  
+SA | bfdadc  
 Public | 009800  
 Confidential | 5319e7  
 Document | fbca04  

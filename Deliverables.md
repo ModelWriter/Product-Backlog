@@ -31,7 +31,7 @@
 | [M28] | D2.5.3-3 Software: Natural Language Generator and Documentation (release 3) | SW | Public | LORIA
 | [M10] | D2.5.4-1 Software: Integration in ModelWriter and Documentation (release 1) | SW | Public | SA
 | [M22] | D2.5.4-1 Software: Integration in ModelWriter and Documentation (release 2) | SW | Public | SA
-| [M30] | D2.5.4-1 Software: Integration in ModelWriter and Documentation  (release 3) | SW | Public | SA
+| [M30] | D2.5.4-1 Software: Integration in ModelWriter and Documentation (release 3) | SW | Public | SA
 | [M3]  | D3.1.1 Review of model-to-model transformation approaches and technologies | Doc. | Public | UNIT
 | [M4]  | D3.2.1 M2M Transformation Framework architectural design document | Doc. | Public | UNIT
 | [M5]  | D3.3.1 Transformation Manager architectural (TRAM) design document | Doc. | Public | UNIT
@@ -81,8 +81,8 @@
 | [M4]  | D5.7.1 Quality Management Strategy (A22) | Doc. | Public | UNIT
 | [37]  | D5.8.1 Final project report (Public Deliverable) | Doc. | Public | UNIT
 | [37]  | D5.8.2 Updated State-of-the-art (Public Deliverable) | Doc. | Public | UNIT
-| [M5]  | D6.1.1 Software: Prototype Core ModelWriter (OBEO, SA, VUB) | SW | Public | OBEO
-| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) (OBEO, SA, VUB, Mantis) | Doc. | Public | OBEO
+| [M5]  | D6.1.1 Software: Prototype Core ModelWriter | SW | Public | OBEO
+| [M5]  | D6.2.1 Report: Architectural Design Document (ADD) | Doc. | Public | OBEO
 | [M10] | D6.3.1-1 Software: Writer enhancements (release 1) | SW | Public | SA
 | [M20] | D6.3.1-2 Software: Writer enhancements (release 2) | SW | Public | SA
 | [M34] | D6.3.1-3 Software: Writer enhancements (release 3) | SW | Public | SA
@@ -93,28 +93,28 @@
 | [M10] | D6.4.3-1 Software: IDE-integrated User Interface to handle Sync issues (major release 1) | SW | Public | OBEO
 | [M20] | D6.4.3-2 Software: IDE-integrated User Interface to handle Sync issues (major release 2) | SW | Public | OBEO
 | [M34] | D6.4.3-3 Software: IDE-integrated User Interface to handle Sync issues (major release 3) | SW | Public | OBEO
-| [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) (SA + all) | Doc. | Public | SA
-| [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) (SA + all) | Doc. | Public | SA
-| [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) (SA + all) | Doc. | Public | SA
-| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) (SA + all | SW | Public | SA
-| [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) (SA + all) | SW | Public | SA
-| [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) (SA + all) | SW | Public | SA
-| [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) (SA + all) | Doc. | Public | SA
-| [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) (SA + all) | Doc. | Public | SA
-| [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) (SA + all) | Doc. | Public | SA
+| [M10] | D6.5.1-1 Report: Acceptance Test Plan (release 1) | Doc. | Public | SA
+| [M20] | D6.5.1-2 Report: Acceptance Test Plan (release 2) | Doc. | Public | SA
+| [M34] | D6.5.1-3 Report: Acceptance Test Plan (release 3) | Doc. | Public | SA
+| [M10] | D6.5.2-1 Software: Automated Acceptance Tests (release 1) | SW | Public | SA
+| [M20] | D6.5.2-2 Software: Automated Acceptance Tests (release 2) | SW | Public | SA
+| [M34] | D6.5.2-3 Software: Automated Acceptance Tests (release 3) | SW | Public | SA
+| [M10] | D6.6.1-1 Report: Acceptance Test Procedures (release 1) | Doc. | Public | SA
+| [M20] | D6.6.1-2 Report: Acceptance Test Procedures (release 2) | Doc. | Public | SA
+| [M34] | D6.6.1-3 Report: Acceptance Test Procedures (release 3) | Doc. | Public | SA
 | [M11] | D6.7.1-1 Software: ModelWriter major release (release 1) | SW | Public | OBEO
 | [M23] | D6.7.1-2 Software: ModelWriter major release (release 2) | SW | Public | OBEO
 | [M35] | D6.7.1-3 Software: ModelWriter major release (release 3) | SW | Public | OBEO
-| [M12] | D6.8.1-1 Report: Evaluation report (release 1) (All) | Doc. | Public | SA
-| [M24] | D6.8.1-2 Report: Evaluation report (release 2) (All) | Doc. | Public | SA
-| [M36] | D6.8.1-3 Report: Evaluation report (release 3) (All) | Doc. | Public | SA
+| [M12] | D6.8.1-1 Report: Evaluation report (release 1) | Doc. | Public | SA
+| [M24] | D6.8.1-2 Report: Evaluation report (release 2) | Doc. | Public | SA
+| [M36] | D6.8.1-3 Report: Evaluation report (release 3) | Doc. | Public | SA
 | [M4]  | D7.1.1 Dissemination Plan | Doc. | Public | OBEO
 | [M7]  | D7.2.1-1 Exploitation Plan (release 1) | Doc. | Public | EADS
 | [M22] | D7.2.1-2 Exploitation Plan (release 2) | Doc. | Public | EADS
 | [M34] | D7.2.1-3 Exploitation Plan (release 3) | Doc. | Public | EADS
 | [M7]  | D7.2.2 Marketing Plan| Doc. | Public | EADS
 | [M34] | D7.2.3 Roadmap for future exploitation and pre-competition survey| Doc. | Public | EADS 
-| [31]  | D7.3.1 Newsletter - International Conference Announcement | Doc. | Public | VUB
+| [M31] | D7.3.1 Newsletter - International Conference Announcement | Doc. | Public | VUB
 | [M1]  | D7.4.1 ModelWriter-ITEA website including secured intranet | SW | Public | SA
 | [M10] | D7.5.1 Technical-oriented talk | Doc. | Public | VUB
 | [M10] | D7.5.2 Research-oriented talk | Doc.  | Public | VUB

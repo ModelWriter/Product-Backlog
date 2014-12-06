@@ -57,13 +57,3 @@
 |T7.5 - Community Forum & Open Source Campaign  
 |T7.6 - Social Networks  
 |T7.7 - Standardization  
-
-
-
-
-
-
-
-
-
-
