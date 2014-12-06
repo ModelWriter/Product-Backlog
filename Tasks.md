@@ -1,3 +1,5 @@
+|Tasks|
+|:----|
 T1.1 - Evaluation Methods & Tools  
 T1.2 - Industrial Use Cases for Belgian Consortium  
 T1.3 - Industrial Use Cases for French Consortium  
