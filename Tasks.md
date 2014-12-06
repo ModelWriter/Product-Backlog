@@ -29,10 +29,10 @@
 |T4.3 - Implementation of the Knowledge Base  
 |T4.4 - Plug-in #1: ModelWriter-assisted requirements review  
 |T4.5 - Knowledge Base serialization and reuse plug-in  
-|T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 documents  
+|T4.6 - Plug-in #3: ModelWriter-assisted semantic comparison of 2 docs.  
 |T4.7 - Plug-in #2: ModelWriter-assisted compliance review  
 |T4.9 - Internal bi-directional synchronization mechanism  
-|T4.10 - External synchronization mechanism for collaborating ModelWriters  
+|T4.10 - External sync. mechanism for collaborating ModelWriters 
 |T5.1 - European and National Coordination and Reporting  
 |T5.2 - Project and Stage Plans  
 |T5.3 - Project Controls  
