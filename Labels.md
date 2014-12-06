@@ -19,3 +19,9 @@ Public | 009800
 Confidential | 5319e7  
 Document | fbca04  
 Software |fbca04  
+wontfix | ffffff
+question | cc317c
+help wanted | 159818
+enhancement | 84b6eb
+duplicate | cccccc
+bug | fc2929
