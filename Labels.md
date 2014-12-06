@@ -1,3 +1,5 @@
+Label | Color
+:-----|:------
 invalid | e6e6e6  
 WP1 | e11d21  
 WP2 | eb6420  
