@@ -2,7 +2,7 @@
 ===============
 **Product backlog of the ModelWriter project** 
 
-Product Backlog: [`https://waffle.io/modelwriter/product-backlog`](https://waffle.io/modelwriter/product-backlog)
+Product Backlog: [`https://waffle.io/modelwriter/product-backlog`](https://waffle.io/modelwriter/product-backlog)  
 Project Management Scrum Board: [`https://waffle.io/modelwriter/project-management`](https://waffle.io/modelwriter/project-management)
 
 The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/product-backlog/issues) of this repository.
